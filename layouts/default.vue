@@ -5,11 +5,13 @@
       <!-- Nested Container Starts -->
       <div class="container clearfix text-center-xs">
         <p class="pull-left-lg pull-left-md pull-left-sm">
-          Welcome to Fin Advisor website, we have expertise in managing your finances!!!
+          We welcome you to DP Insurance Agency website, we are a no hassel insurance broker!
         </p>
         <p class="pull-right-lg pull-right-md pull-right-sm text-right-lg text-right-md text-right-sm">
           <i class="fa fa-clock-o"></i>&nbsp;
-          Monday - Friday : 8:00 AM to 7:00 PM
+          Monday - Friday : 8:30 AM to 5:30 PM
+          <br>
+          Saturday: 10:00 AM to 2:00 PM
         </p>
       </div>
       <!-- Nested Container Ends -->
@@ -23,15 +25,15 @@
         <div class="row">
           <!-- Logo Starts -->
           <div class="col-lg-3 col-sm-4 col-xs-12">
-            <img src="images/logo.png" alt="Fin Adviser" class="img-responsive img-center-xs logo">
+            <img src="images/logo/dp logo.png" alt="Fin Adviser" class="img-responsive img-center-xs logo">
           </div>
           <!-- Logo Ends -->
           <!-- Address Starts -->
           <div class="col-sm-3 col-xs-12 hidden-md hidden-sm hidden-xs col-lg-offset-1">
             <div class="clearfix">
               <i class="fa fa-map-marker pull-left-lg pull-left-md pull-left-sm circle"></i>
-              <h6 class="text-spl-color text-medium">345 Begum Bazar,</h6>
-              <p class="text-light"><em>Near Afzaljung, Hyd - 035</em></p>
+              <h6 class="text-spl-color text-medium">1130 South San Gabriel Blvd Suite #202,</h6>
+              <p class="text-light"><em>San Gabriel, CA 91776-3155</em></p>
             </div>
           </div>
           <!-- Address Ends -->
@@ -40,7 +42,7 @@
             <div class="clearfix text-right-md text-right-sm">
               <i class="fa fa-phone pull-left-lg pull-right-md pull-right-sm circle"></i>
               <h6 class="text-spl-color text-medium">Call Us On</h6>
-              <p class="text-light"><em>1-800-123-4567</em></p>
+              <p class="text-light"><em>1-626-292-6608</em></p>
             </div>
           </div>
           <!-- Call Us Ends -->
@@ -49,7 +51,7 @@
             <div class="clearfix text-right-md text-right-sm">
               <i class="fa fa-envelope-o pull-left-lg pull-right-md pull-right-sm circle"></i>
               <h6 class="text-spl-color text-medium">Mail Us @</h6>
-              <p class="text-light"><em><a href="#">support@finadvisordomain.com</a></em></p>
+              <p class="text-light"><em><a href="#">procenter@dp-formosa.com</a></em></p>
             </div>
           </div>
           <!-- Mail Us Ends -->
@@ -77,39 +79,26 @@
           <div class="collapse navbar-collapse navbar-cat-collapse animation">
             <!-- Nav Links Starts -->
             <ul class="nav navbar-nav text-bold">
+              <li><a href="about.html">Home</a></li>
+
+              <li><a href="about.html">About Us</a></li>
               <li class="active dropdown">
-                <a href="css/index.html" class="dropdown-toggle" data-toggle="dropdown">Home <i class="fa fa-angle-down"></i></a>
+                <a href="css/index.html" class="dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <li><a tabindex="-1" href="css/index.html">Home 1</a></li>
-                  <li><a tabindex="-1" href="index2.html">Home 2</a></li>
-                  <li><a tabindex="-1" href="index3.html">Home 3</a></li>
-                  <li><a tabindex="-1" href="index4.html">Home 4</a></li>
+                  <li><a tabindex="-1" href="css/index.html">Service 1</a></li>
+                  <li><a tabindex="-1" href="index2.html">Service 2</a></li>
+                  <li><a tabindex="-1" href="index3.html">Service 3</a></li>
+                  <li><a tabindex="-1" href="index4.html">Service 4</a></li>
                   <li class="active"><a tabindex="-1" href="index5.html">Home 5</a></li>
                 </ul>
               </li>
-
-              <li><a href="about.html">About Us</a></li>
-              <li><a href="services.html">Services</a></li>
               <li class="dropdown">
-                <a href="blog.html" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-angle-down"></i></a>
+                <a href="blog.html" class="dropdown-toggle" data-toggle="dropdown">Products <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <li><a tabindex="-1" href="blog.html">Blog Page</a></li>
-                  <li><a tabindex="-1" href="blog-2col.html">Blog 2 Col</a></li>
-                  <li><a tabindex="-1" href="blog-3col.html">Blog 3 Col</a></li>
-                  <li><a tabindex="-1" href="blog-single.html">Blog Single Page</a></li>
-                </ul>
-              </li>
-              <li><a href="contact.html">Contact Us</a></li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
-                <ul class="dropdown-menu flat" role="menu">
-                  <li tabindex="-1"><a href="team.html">Team</a></li>
-                  <li tabindex="-1"><a href="faq.html">Faq's</a></li>
-                  <li tabindex="-1"><a href="pricing.html">Pricing</a></li>
-                  <li tabindex="-1"><a href="gallery.html">Gallery</a></li>
-                  <li tabindex="-1"><a href="404.html">404</a></li>
-                  <li tabindex="-1"><a href="coming-soon.html">Coming Soon</a></li>
-
+                  <li><a tabindex="-1" href="blog.html">Product 1</a></li>
+                  <li><a tabindex="-1" href="blog-2col.html">Product 2</a></li>
+                  <li><a tabindex="-1" href="blog-3col.html">Product 3</a></li>
+                  <li><a tabindex="-1" href="blog-single.html">Product 4</a></li>
                 </ul>
               </li>
             </ul>

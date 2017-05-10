@@ -8,9 +8,9 @@
         <div class="item active">
           <img src="images/slider/slide-img-4.jpg" alt="Slide 1" class="img-responsive img-center">
           <div class="carousel-caption text-center text-lite-color hidden-xs">
-            <h2 class="text-medium">Financial Expert Advice</h2>
-            <h5 class="text-light">With our 35 years of quality experience in financial advice.</h5>
-            <h5 class="text-light">We ensure you will be getting 100% best service.</h5>
+            <h2 class="text-medium">Independent Insurance Agency</h2>
+            <h5 class="text-light">Always Independent</h5>
+            <h5 class="text-light">Work for you, Not for Insurance Companies </h5>
             <a href="#" class="btn btn-secondary animation text-medium">More Services</a>
           </div>
         </div>
@@ -19,10 +19,10 @@
         <div class="item">
           <img src="images/slider/slide-img-2.jpg" alt="Slide 2" class="img-responsive img-center">
           <div class="carousel-caption text-center text-lite-color hidden-xs">
-            <h2 class="text-medium">Heading #2</h2>
-            <h5 class="text-light">With our 35 years of quality experience in financial advice.</h5>
-            <h5 class="text-light">We ensure you will be getting 100% best service.</h5>
-            <a href="#" class="btn btn-secondary animation">More Link</a>
+            <h2 class="text-medium">Established in 1987</h2>
+            <h5 class="text-light">Over 30 Years in the Industry</h5>
+            <h5 class="text-light">We work to ensure your 100% satisfaction</h5>
+            <a href="#" class="btn btn-secondary animation">Services</a>
           </div>
         </div>
         <!-- Slide #2 Ends -->
@@ -30,9 +30,9 @@
         <div class="item">
           <img src="images/slider/slide-img-3.jpg" alt="Slide 3" class="img-responsive img-center">
           <div class="carousel-caption text-center text-lite-color hidden-xs">
-            <h2 class="text-medium">Heading #3</h2>
-            <h5 class="text-light">With our 35 years of quality experience in financial advice.</h5>
-            <h5 class="text-light">We ensure you will be getting 100% best service.</h5>
+            <h2 class="text-medium">Selected Insurance Groups</h2>
+            <h5 class="text-light">Very Selective Insurance Companies</h5>
+            <h5 class="text-light">Best coverage at most competitive price</h5>
             <a href="#" class="btn btn-secondary animation">More Link</a>
           </div>
         </div>
@@ -49,6 +49,7 @@
         <span class="sr-only">Next</span>
       </a>
       <!-- Control Ends -->
+
     </div>
     <!-- Slider Ends -->
     <!-- Welcome Section Starts -->
@@ -56,8 +57,8 @@
       <!-- Nested Container Starts -->
       <div class="container text-center">
         <!-- Heading Starts -->
-        <h4>We Are <span>Financial Experts</span></h4>
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+        <h4>We Are <span>Insurance Experts</span></h4>
+        <p>We know our way around the complex world of insurance</p>
         <!-- Heading Ends -->
         <!-- Nested Row Starts -->
         <div class="row">
@@ -65,9 +66,9 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="intro-col">
               <i class="fa fa-bar-chart-o circle"></i>
-              <h5 class="text-bold">Financial Planning</h5>
+              <h5 class="text-bold">Free Online Quotes</h5>
               <p>
-                Lorem Ipsum has been the industry's standard text ever since the printer took a galley of type and scrambled it to make a type book.
+                We offer free quotes to our carefully selected insurance agencies suited for your needs
               </p>
             </div>
           </div>
@@ -76,9 +77,9 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="intro-col">
               <i class="fa fa-group circle"></i>
-              <h5 class="text-bold">Technical Management</h5>
+              <h5 class="text-bold">Security and Protection</h5>
               <p>
-                Lorem Ipsum has been the industry's standard text ever since the printer took a galley of type and scrambled it to make a type book.
+                Information regarding insurance is crucial and private.  We keep your information secure.
               </p>
             </div>
           </div>
@@ -87,9 +88,10 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="intro-col">
               <i class="fa fa-money circle"></i>
-              <h5 class="text-bold">Planning Budgets</h5>
+              <h5 class="text-bold">Competitive Prices</h5>
               <p>
-                Lorem Ipsum has been the industry's standard text ever since the printer took a galley of type and scrambled it to make a type book.
+                Insurance is expensive, our service keeps you informed in regards to your insurance needs so you
+                can pick the best plan that is right for you
               </p>
             </div>
           </div>
@@ -98,9 +100,10 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="intro-col">
               <i class="fa fa-bar-chart-o circle"></i>
-              <h5 class="text-bold">Tax Planning</h5>
+              <h5 class="text-bold">Life Insurance</h5>
               <p>
-                Lorem Ipsum has been the industry's standard text ever since the printer took a galley of type and scrambled it to make a type book.
+                Don't put off getting life insurance, protect your family and their financial future.  It is cheaper
+                to get insured early.
               </p>
             </div>
           </div>
@@ -109,9 +112,10 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="intro-col">
               <i class="fa fa-group circle"></i>
-              <h5 class="text-bold">Risk Management</h5>
+              <h5 class="text-bold">Health Insurance</h5>
               <p>
-                Lorem Ipsum has been the industry's standard text ever since the printer took a galley of type and scrambled it to make a type book.
+                For most, health insurance is just that, insurance.  You never want to have to use it, but glad when
+                you need it and you have it.  Don't delay to get insured.
               </p>
             </div>
           </div>
@@ -120,9 +124,10 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="intro-col">
               <i class="fa fa-money circle"></i>
-              <h5 class="text-bold">Investment Plans</h5>
+              <h5 class="text-bold">Travel Insurance</h5>
               <p>
-                Lorem Ipsum has been the industry's standard text ever since the printer took a galley of type and scrambled it to make a type book.
+                Lost luggage or a travel accident can be detrimental to your experience.  Have some peace of mind
+                during your vacation outings and get insured.
               </p>
             </div>
           </div>
@@ -134,57 +139,57 @@
     </section>
     <!-- Welcome Section Ends -->
     <!-- Services Section Starts -->
-<!--    <section class="section-services parallax">
-      &lt;!&ndash; Nested Container Starts &ndash;&gt;
+    <section class="section-services parallax">
+      <!-- Nested Container Starts -->
       <div class="container text-lite-color text-center-xs">
-        &lt;!&ndash; Nested Row Starts &ndash;&gt;
+        <!-- Nested Row Starts -->
         <div class="row">
-          &lt;!&ndash; Starts &ndash;&gt;
+          <!-- Starts -->
           <div class="col-md-6 col-xs-12">
-            &lt;!&ndash; Heading Starts &ndash;&gt;
+            <!-- Heading Starts -->
             <h4 class="section-heading-1 text-lite-color text-center-xs no-margin-top">Our <span>Services</span></h4>
-            &lt;!&ndash; Heading Ends &ndash;&gt;
-            &lt;!&ndash; Content Starts &ndash;&gt;
+            <!-- Heading Ends -->
+            <!-- Content Starts -->
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+              With over 30 years of experience, DP Insurance takes pride in providing our customers the best insurance policies that are right for them.
             </p>
-            <p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
-            &lt;!&ndash; Content Ends &ndash;&gt;
-            &lt;!&ndash; List Starts &ndash;&gt;
+            <p>What you can expect from our insurance agency is a dedicated service in getting our customers the insurance plan they need that is right for them.</p>
+            <!-- Content Ends -->
+            <!-- List Starts -->
             <ul class="list-unstyled row text-medium">
-              <li class="col-sm-6 col-xs-12">Fast Loan Approval</li>
-              <li class="col-sm-6 col-xs-12">Financial Planning</li>
-              <li class="col-sm-6 col-xs-12">On Time Tax Filing</li>
-              <li class="col-sm-6 col-xs-12">Tax Planning</li>
+              <li class="col-sm-6 col-xs-12">Free Online Quotes</li>
+              <li class="col-sm-6 col-xs-12">Quote Comparison</li>
+              <li class="col-sm-6 col-xs-12">Application Filing</li>
+              <li class="col-sm-6 col-xs-12">Analysis of needs</li>
               <li class="col-sm-6 col-xs-12">Dedicated Team</li>
-              <li class="col-sm-6 col-xs-12">Risk Management</li>
-              <li class="col-sm-6 col-xs-12">PAN Registration</li>
-              <li class="col-sm-6 col-xs-12">University of Taxation</li>
-              <li class="col-sm-6 col-xs-12">Firm Registration</li>
-              <li class="col-sm-6 col-xs-12">CA and ICWA Services</li>
+              <li class="col-sm-6 col-xs-12">Quick and Easy Access</li>
+              <li class="col-sm-6 col-xs-12">Business Insurance</li>
+              <li class="col-sm-6 col-xs-12">Family Health Plans</li>
+              <li class="col-sm-6 col-xs-12">Life Insurance Policies</li>
+              <li class="col-sm-6 col-xs-12">Auto Insurance Policies</li>
             </ul>
-            &lt;!&ndash; List Ends &ndash;&gt;
+            <!-- List Ends -->
           </div>
-          &lt;!&ndash; Ends &ndash;&gt;
+          <!-- Ends -->
         </div>
-        &lt;!&ndash; Nested Row Ends &ndash;&gt;
+        <!-- Nested Row Ends -->
       </div>
-      &lt;!&ndash; Nested Container Ends &ndash;&gt;
+      <!-- Nested Container Ends -->
     </section>
-    &lt;!&ndash; Services Section Ends &ndash;&gt;
-    &lt;!&ndash; Why Us Section Starts &ndash;&gt;
+    <!-- Services Section Ends -->
+    <!-- Why Us Section Starts -->
     <section class="section-area why-us-section">
-      &lt;!&ndash; Nested Container Starts &ndash;&gt;
+      <!-- Nested Container Starts -->
       <div class="container">
-        &lt;!&ndash; Heading Starts &ndash;&gt;
-        <h4 class="section-heading-1 text-center-xs no-margin-top">Why Choosing <span>Fin Advisor</span></h4>
-        &lt;!&ndash; Heading Ends &ndash;&gt;
-        &lt;!&ndash; Spacer Starts &ndash;&gt;
+        <!-- Heading Starts -->
+        <h4 class="section-heading-1 text-center-xs no-margin-top">Why Choose <span>DP Insurance?</span></h4>
+        <!-- Heading Ends -->
+        <!-- Spacer Starts -->
         <div class="spacer-tiny"></div>
-        &lt;!&ndash; Spacer Ends &ndash;&gt;
-        &lt;!&ndash; Nested Row Starts &ndash;&gt;
+        <!-- Spacer Ends -->
+        <!-- Nested Row Starts -->
         <div class="row">
-          &lt;!&ndash; Col #1 Starts &ndash;&gt;
+          <!-- Col #1 Starts -->
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image17.jpg" alt="Image" class="img-responsive img-center animation">
@@ -192,7 +197,7 @@
                 <div class="inner">
                   <h5><i class="fa fa-share-square"></i> Quality Service</h5>
                   <p>
-                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.
+                    We are an independent Insurance Broker so we work for you, not for the insurance companies
                   </p>
                   <p class="read-more text-bold"><a href="#">Read More</a> <i class="fa fa-angle-double-right"></i></p>
                 </div>
@@ -200,118 +205,119 @@
               <h5 class="why-us-item-bar animation"><i class="fa fa-share-square"></i> Quality Service</h5>
             </div>
           </div>
-          &lt;!&ndash; Col #1 Ends &ndash;&gt;
-          &lt;!&ndash; Col #2 Starts &ndash;&gt;
+          <!-- Col #1 Ends -->
+          <!-- Col #2 Starts -->
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image18.jpg" alt="Image" class="img-responsive img-center animation">
               <div class="overlay animation">
                 <div class="inner">
-                  <h5><i class="fa fa-bar-chart-o"></i> Business Growth</h5>
+                  <h5><i class="fa fa-bar-chart-o"></i> Quality Assurance</h5>
                   <p>
-                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.
+                    The insurance companies we contract with are carefully selected through our screening process to ensure
+                    the best policies and best plans are available for you
                   </p>
                   <p class="read-more text-bold"><a href="#">Read More</a> <i class="fa fa-angle-double-right"></i></p>
                 </div>
               </div>
-              <h5 class="why-us-item-bar animation"><i class="fa fa-bar-chart-o"></i> Business Growth</h5>
+              <h5 class="why-us-item-bar animation"><i class="fa fa-bar-chart-o"></i> Quality Assurance</h5>
             </div>
           </div>
-          &lt;!&ndash; Col #2 Ends &ndash;&gt;
-          &lt;!&ndash; Col #3 Starts &ndash;&gt;
+          <!-- Col #2 Ends -->
+          <!-- Col #3 Starts -->
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image19.jpg" alt="Image" class="img-responsive img-center animation">
               <div class="overlay animation">
                 <div class="inner">
-                  <h5><i class="fa fa-clock-o"></i> Timeline Completion</h5>
+                  <h5><i class="fa fa-clock-o"></i> Record Keeping</h5>
                   <p>
-                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.
+                    We store your application and other important documents for you so you know exactly where they are when you need them.
                   </p>
                   <p class="read-more text-bold"><a href="#">Read More</a> <i class="fa fa-angle-double-right"></i></p>
                 </div>
               </div>
-              <h5 class="why-us-item-bar animation"><i class="fa fa-clock-o"></i> Timeline Completion</h5>
+              <h5 class="why-us-item-bar animation"><i class="fa fa-clock-o"></i> Record Keeping</h5>
             </div>
           </div>
-          &lt;!&ndash; Col #3 Ends &ndash;&gt;
-          &lt;!&ndash; Col #4 Starts &ndash;&gt;
+          <!-- Col #3 Ends -->
+          <!-- Col #4 Starts -->
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image20.jpg" alt="Image" class="img-responsive img-center animation">
               <div class="overlay animation">
                 <div class="inner">
-                  <h5><i class="fa fa-cloud-download"></i> Updated BS Version</h5>
+                  <h5><i class="fa fa-cloud-download"></i>Frequently Updated</h5>
                   <p>
-                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.
+                    We keep you updated with any changes in the policies so you stay informed about your plan.
                   </p>
                   <p class="read-more text-bold"><a href="#">Read More</a> <i class="fa fa-angle-double-right"></i></p>
                 </div>
               </div>
-              <h5 class="why-us-item-bar animation"><i class="fa fa-cloud-download"></i> Updated BS Version</h5>
+              <h5 class="why-us-item-bar animation"><i class="fa fa-cloud-download"></i> Frequently Updated</h5>
             </div>
           </div>
-          &lt;!&ndash; Col #4 Ends &ndash;&gt;
-          &lt;!&ndash; Col #5 Starts &ndash;&gt;
+          <!-- Col #4 Ends -->
+          <!-- Col #5 Starts -->
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image21.jpg" alt="Image" class="img-responsive img-center animation">
               <div class="overlay animation">
                 <div class="inner">
-                  <h5><i class="fa fa-cogs"></i> Corporate Design</h5>
+                  <h5><i class="fa fa-cogs"></i> Application Assistance</h5>
                   <p>
-                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.
+                    We provide assistance with the complex insurance application processes, all confidential.
                   </p>
                   <p class="read-more text-bold"><a href="#">Read More</a> <i class="fa fa-angle-double-right"></i></p>
                 </div>
               </div>
-              <h5 class="why-us-item-bar animation"><i class="fa fa-cogs"></i> Corporate Design</h5>
+              <h5 class="why-us-item-bar animation"><i class="fa fa-cogs"></i> Application Assistance</h5>
             </div>
           </div>
-          &lt;!&ndash; Col #5 Ends &ndash;&gt;
-          &lt;!&ndash; Col #6 Starts &ndash;&gt;
+          <!-- Col #5 Ends -->
+          <!-- Col #6 Starts -->
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image22.jpg" alt="Image" class="img-responsive img-center animation">
               <div class="overlay animation">
                 <div class="inner">
-                  <h5><i class="fa fa-tachometer"></i> Business Consultancy</h5>
+                  <h5><i class="fa fa-tachometer"></i> Business Protection</h5>
                   <p>
-                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which.
+                    We offer a large selection of business policies that protect your business from various liabilities.
                   </p>
                   <p class="read-more text-bold"><a href="#">Read More</a> <i class="fa fa-angle-double-right"></i></p>
                 </div>
               </div>
-              <h5 class="why-us-item-bar animation"><i class="fa fa-tachometer"></i> Business Consultancy</h5>
+              <h5 class="why-us-item-bar animation"><i class="fa fa-tachometer"></i> Business Protection</h5>
             </div>
           </div>
-          &lt;!&ndash; Col #6 Ends &ndash;&gt;
+          <!-- Col #6 Ends -->
         </div>
-        &lt;!&ndash; Nested Row Ends &ndash;&gt;
+        <!-- Nested Row Ends -->
       </div>
-      &lt;!&ndash; Nested Container Ends &ndash;&gt;
+      <!-- Nested Container Ends -->
     </section>
-    &lt;!&ndash; Why Us Section Ends &ndash;&gt;
-    &lt;!&ndash; Support Section Starts &ndash;&gt;
+    <!-- Why Us Section Ends -->
+    <!-- Support Section Starts -->
     <section class="section-area section-style-2">
-      &lt;!&ndash; Nested Container Starts &ndash;&gt;
+      <!-- Nested Container Starts -->
       <div class="container">
-        &lt;!&ndash; Nested Row Starts &ndash;&gt;
+        <!-- Nested Row Starts -->
         <div class="row">
-          &lt;!&ndash; Left Col Starts &ndash;&gt;
+          <!-- Left Col Starts -->
           <div class="col-sm-6 col-xs-12  text-center-xs">
-            &lt;!&ndash; Heading Starts &ndash;&gt;
+            <!-- Heading Starts -->
             <h4 class="section-heading-1 text-center-xs no-margin-top">We Are Ready <span>To Help You</span></h4>
-            &lt;!&ndash; Heading Ends &ndash;&gt;
-            &lt;!&ndash; Content Starts &ndash;&gt;
+            <!-- Heading Ends -->
+            <!-- Content Starts -->
             <p class="text-justify">
               There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
             </p>
-            &lt;!&ndash; Content Ends &ndash;&gt;
-            &lt;!&ndash; Spacer Starts &ndash;&gt;
+            <!-- Content Ends -->
+            <!-- Spacer Starts -->
             <div class="spacer-tiny"></div>
-            &lt;!&ndash; Spacer Ends &ndash;&gt;
-            &lt;!&ndash; Stats Starts &ndash;&gt;
+            <!-- Spacer Ends -->
+            <!-- Stats Starts -->
             <ul class="list-unstyled row list-stats text-center no-margin-bottom">
               <li class="col-sm-4 col-xs-12">
                 <h4 class="text-spl-color text-bold badges-counter">451</h4>
@@ -326,16 +332,16 @@
                 <h6 class="text-medium">Years of Experience</h6>
               </li>
             </ul>
-            &lt;!&ndash; Stats Ends &ndash;&gt;
+            <!-- Stats Ends -->
           </div>
-          &lt;!&ndash; Left Col Ends &ndash;&gt;
-          &lt;!&ndash; Right Col Starts &ndash;&gt;
+          <!-- Left Col Ends -->
+          <!-- Right Col Starts -->
           <div class="col-sm-6 col-xs-12">
-            &lt;!&ndash; Accordions Starts &ndash;&gt;
+            <!-- Accordions Starts -->
             <div class="panel-group" id="accordion-help">
-              &lt;!&ndash; Accordion #1 Starts &ndash;&gt;
+              <!-- Accordion #1 Starts -->
               <div class="panel flat">
-                &lt;!&ndash; Panel Heading Starts &ndash;&gt;
+                <!-- Panel Heading Starts -->
                 <div class="panel-heading flat">
                   <h6 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse1">
@@ -343,8 +349,8 @@
                     </a>
                   </h6>
                 </div>
-                &lt;!&ndash; Panel Heading Ends &ndash;&gt;
-                &lt;!&ndash; Panel Body Starts &ndash;&gt;
+                <!-- Panel Heading Ends -->
+                <!-- Panel Body Starts -->
                 <div id="collapse1" class="panel-collapse collapse in">
                   <div class="panel-body">
                     <p>
@@ -352,12 +358,12 @@
                     </p>
                   </div>
                 </div>
-                &lt;!&ndash; Panel Body Ends &ndash;&gt;
+                <!-- Panel Body Ends -->
               </div>
-              &lt;!&ndash; Accordion #1 Ends &ndash;&gt;
-              &lt;!&ndash; Accordion #2 Starts &ndash;&gt;
+              <!-- Accordion #1 Ends -->
+              <!-- Accordion #2 Starts -->
               <div class="panel flat">
-                &lt;!&ndash; Panel Heading Starts &ndash;&gt;
+                <!-- Panel Heading Starts -->
                 <div class="panel-heading flat">
                   <h6 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse2">
@@ -365,8 +371,8 @@
                     </a>
                   </h6>
                 </div>
-                &lt;!&ndash; Panel Heading Ends &ndash;&gt;
-                &lt;!&ndash; Panel Body Starts &ndash;&gt;
+                <!-- Panel Heading Ends -->
+                <!-- Panel Body Starts -->
                 <div id="collapse2" class="panel-collapse collapse">
                   <div class="panel-body">
                     <p>
@@ -374,12 +380,12 @@
                     </p>
                   </div>
                 </div>
-                &lt;!&ndash; Panel Body Ends &ndash;&gt;
+                <!-- Panel Body Ends -->
               </div>
-              &lt;!&ndash; Accordion #2 Ends &ndash;&gt;
-              &lt;!&ndash; Accordion #3 Starts &ndash;&gt;
+              <!-- Accordion #2 Ends -->
+              <!-- Accordion #3 Starts -->
               <div class="panel flat">
-                &lt;!&ndash; Panel Heading Starts &ndash;&gt;
+                <!-- Panel Heading Starts -->
                 <div class="panel-heading flat">
                   <h6 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse3">
@@ -387,8 +393,8 @@
                     </a>
                   </h6>
                 </div>
-                &lt;!&ndash; Panel Heading Ends &ndash;&gt;
-                &lt;!&ndash; Panel Body Starts &ndash;&gt;
+                <!-- Panel Heading Ends -->
+                <!-- Panel Body Starts -->
                 <div id="collapse3" class="panel-collapse collapse">
                   <div class="panel-body">
                     <p>
@@ -396,12 +402,12 @@
                     </p>
                   </div>
                 </div>
-                &lt;!&ndash; Panel Body Ends &ndash;&gt;
+                <!-- Panel Body Ends -->
               </div>
-              &lt;!&ndash; Accordion #3 Ends &ndash;&gt;
-              &lt;!&ndash; Accordion #4 Starts &ndash;&gt;
+              <!-- Accordion #3 Ends -->
+              <!-- Accordion #4 Starts -->
               <div class="panel flat">
-                &lt;!&ndash; Panel Heading Starts &ndash;&gt;
+                <!-- Panel Heading Starts -->
                 <div class="panel-heading flat">
                   <h6 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse4">
@@ -409,8 +415,8 @@
                     </a>
                   </h6>
                 </div>
-                &lt;!&ndash; Panel Heading Ends &ndash;&gt;
-                &lt;!&ndash; Panel Body Starts &ndash;&gt;
+                <!-- Panel Heading Ends -->
+                <!-- Panel Body Starts -->
                 <div id="collapse4" class="panel-collapse collapse">
                   <div class="panel-body">
                     <p>
@@ -418,12 +424,12 @@
                     </p>
                   </div>
                 </div>
-                &lt;!&ndash; Panel Body Ends &ndash;&gt;
+                <!-- Panel Body Ends -->
               </div>
-              &lt;!&ndash; Accordion #4 Ends &ndash;&gt;
-              &lt;!&ndash; Accordion #5 Starts &ndash;&gt;
+              <!-- Accordion #4 Ends -->
+              <!-- Accordion #5 Starts -->
               <div class="panel flat">
-                &lt;!&ndash; Panel Heading Starts &ndash;&gt;
+                <!-- Panel Heading Starts -->
                 <div class="panel-heading flat">
                   <h6 class="panel-title">
                     <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse5">
@@ -431,8 +437,8 @@
                     </a>
                   </h6>
                 </div>
-                &lt;!&ndash; Panel Heading Ends &ndash;&gt;
-                &lt;!&ndash; Panel Body Starts &ndash;&gt;
+                <!-- Panel Heading Ends -->
+                <!-- Panel Body Starts -->
                 <div id="collapse5" class="panel-collapse collapse">
                   <div class="panel-body">
                     <p>
@@ -440,205 +446,19 @@
                     </p>
                   </div>
                 </div>
-                &lt;!&ndash; Panel Body Ends &ndash;&gt;
+                <!-- Panel Body Ends -->
               </div>
-              &lt;!&ndash; Accordion #5 Ends &ndash;&gt;
+              <!-- Accordion #5 Ends -->
             </div>
-            &lt;!&ndash; Accordions Ends &ndash;&gt;
+            <!-- Accordions Ends -->
           </div>
-          &lt;!&ndash; Right Col Ends &ndash;&gt;
+          <!-- Right Col Ends -->
         </div>
-        &lt;!&ndash; Nested Row Ends &ndash;&gt;
+        <!-- Nested Row Ends -->
       </div>
-      &lt;!&ndash; Nested Container Ends &ndash;&gt;
+      <!-- Nested Container Ends -->
     </section>
-    &lt;!&ndash; Support Section Ends &ndash;&gt;
-    &lt;!&ndash; Main Container Starts &ndash;&gt;
-    <div class="main-container container">
-      &lt;!&ndash; Latest News Section Starts &ndash;&gt;
-      <section class="section-latest-news">
-        &lt;!&ndash; Heading Starts &ndash;&gt;
-        <h4 class="section-heading-1 text-center-xs">Latest <span>News</span></h4>
-        &lt;!&ndash; Heading Ends &ndash;&gt;
-        &lt;!&ndash; Nested Row Starts &ndash;&gt;
-        <div class="row">
-          &lt;!&ndash; News Box #1 Starts &ndash;&gt;
-          <div class="col-sm-4 col-xs-12">
-            <div class="news-box">
-              &lt;!&ndash; Image Starts &ndash;&gt;
-              <img src="images/blog/blog-thumb-2.jpg" alt="News Images" class="img-responsive img-center">
-              &lt;!&ndash; Image Ends &ndash;&gt;
-              &lt;!&ndash; News Content Starts &ndash;&gt;
-              <div class="news-box-content">
-                &lt;!&ndash; Date Starts &ndash;&gt;
-                <div class="time-stamp text-center">
-                  <span class="text-medium">30</span>
-                  <span class="text-light">Mar</span>
-                </div>
-                &lt;!&ndash; Date Ends &ndash;&gt;
-                &lt;!&ndash; Title Starts &ndash;&gt;
-                <h6 class="text-medium"><a href="#">Income Tax Planning with Individual </a></h6>
-                &lt;!&ndash; Title Ends &ndash;&gt;
-                &lt;!&ndash; Teaser Content Starts &ndash;&gt;
-                <p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
-                &lt;!&ndash; Teaser Content Ends &ndash;&gt;
-                &lt;!&ndash; Links Starts &ndash;&gt;
-                <ul class="list-unstyled list-inline text-normal">
-                  <li class="text-medium"><a href="#">Read More</a></li>
-                  <li class="pull-right"><a href="#"><i class="fa fa-comments"></i>0 Comment</a></li>
-                  <li class="pull-right"><a href="#"><i class="fa fa-user"></i>By admin</a></li>
-                </ul>
-                &lt;!&ndash; Links Ends &ndash;&gt;
-              </div>
-              &lt;!&ndash; News Content Ends &ndash;&gt;
-            </div>
-          </div>
-          &lt;!&ndash; News Box #1 Ends &ndash;&gt;
-          &lt;!&ndash; News Box #2 Starts &ndash;&gt;
-          <div class="col-sm-4 col-xs-12">
-            <div class="news-box">
-              &lt;!&ndash; Image Starts &ndash;&gt;
-              <img src="images/blog/blog-thumb-3.jpg" alt="News Images" class="img-responsive img-center">
-              &lt;!&ndash; Image Ends &ndash;&gt;
-              &lt;!&ndash; News Content Starts &ndash;&gt;
-              <div class="news-box-content">
-                &lt;!&ndash; Date Starts &ndash;&gt;
-                <div class="time-stamp text-center">
-                  <span class="text-medium">20</span>
-                  <span class="text-light">Mar</span>
-                </div>
-                &lt;!&ndash; Date Ends &ndash;&gt;
-                &lt;!&ndash; Title Starts &ndash;&gt;
-                <h6 class="text-medium"><a href="#">Income Tax Planning with Individual </a></h6>
-                &lt;!&ndash; Title Ends &ndash;&gt;
-                &lt;!&ndash; Teaser Content Starts &ndash;&gt;
-                <p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
-                &lt;!&ndash; Teaser Content Ends &ndash;&gt;
-                &lt;!&ndash; Links Starts &ndash;&gt;
-                <ul class="list-unstyled list-inline text-normal">
-                  <li class="text-medium"><a href="#">Read More</a></li>
-                  <li class="pull-right"><a href="#"><i class="fa fa-comments"></i>0 Comment</a></li>
-                  <li class="pull-right"><a href="#"><i class="fa fa-user"></i>By admin</a></li>
-                </ul>
-                &lt;!&ndash; Links Ends &ndash;&gt;
-              </div>
-              &lt;!&ndash; News Content Ends &ndash;&gt;
-            </div>
-          </div>
-          &lt;!&ndash; News Box #2 Ends &ndash;&gt;
-          &lt;!&ndash; News Box #3 Starts &ndash;&gt;
-          <div class="col-sm-4 col-xs-12">
-            <div class="news-box">
-              &lt;!&ndash; Image Starts &ndash;&gt;
-              <img src="images/blog/blog-thumb-4.jpg" alt="News Images" class="img-responsive img-center">
-              &lt;!&ndash; Image Ends &ndash;&gt;
-              &lt;!&ndash; News Content Starts &ndash;&gt;
-              <div class="news-box-content">
-                &lt;!&ndash; Date Starts &ndash;&gt;
-                <div class="time-stamp text-center">
-                  <span class="text-medium">10</span>
-                  <span class="text-light">Mar</span>
-                </div>
-                &lt;!&ndash; Date Ends &ndash;&gt;
-                &lt;!&ndash; Title Starts &ndash;&gt;
-                <h6 class="text-medium"><a href="#">Income Tax Planning with Individual </a></h6>
-                &lt;!&ndash; Title Ends &ndash;&gt;
-                &lt;!&ndash; Teaser Content Starts &ndash;&gt;
-                <p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
-                &lt;!&ndash; Teaser Content Ends &ndash;&gt;
-                &lt;!&ndash; Links Starts &ndash;&gt;
-                <ul class="list-unstyled list-inline text-normal">
-                  <li class="text-medium"><a href="#">Read More</a></li>
-                  <li class="pull-right"><a href="#"><i class="fa fa-comments"></i>0 Comment</a></li>
-                  <li class="pull-right"><a href="#"><i class="fa fa-user"></i>By admin</a></li>
-                </ul>
-                &lt;!&ndash; Links Ends &ndash;&gt;
-              </div>
-              &lt;!&ndash; News Content Ends &ndash;&gt;
-            </div>
-          </div>
-          &lt;!&ndash; News Box #3 Ends &ndash;&gt;
-        </div>
-        &lt;!&ndash; Nested Row Ends &ndash;&gt;
-      </section>
-      &lt;!&ndash; Latest News Section Ends &ndash;&gt;
-      &lt;!&ndash; Team Section Starts &ndash;&gt;
-      <section class="section-our-team">
-        &lt;!&ndash; Heading Starts &ndash;&gt;
-        <h4 class="section-heading-1 text-center-xs">Our Experience <span>Team</span></h4>
-        &lt;!&ndash; Heading Ends &ndash;&gt;
-        &lt;!&ndash; Nested Row Starts &ndash;&gt;
-        <div class="row">
-          &lt;!&ndash; Team Bio #1 Starts &ndash;&gt;
-          <div class="col-md-3 col-sm-6 col-xs-12">
-            <div class="team-bio text-center animation">
-              <p><img src="images/team/team-img9.jpg" alt="Team Image" class="img-responsive img-center"></p>
-              <h6 class="text-medium"><a href="#">John Shamulleson</a></h6>
-              <p class="text-light">Team Lead</p>
-              <ul class="list-unstyled list-inline team-bio-sm-links">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-              </ul>
-            </div>
-          </div>
-          &lt;!&ndash; Team Bio #1 Ends &ndash;&gt;
-          &lt;!&ndash; Team Bio #2 Starts &ndash;&gt;
-          <div class="col-md-3 col-sm-6 col-xs-12">
-            <div class="team-bio text-center animation">
-              <p><img src="images/team/team-img10.jpg" alt="Team Image" class="img-responsive img-center"></p>
-              <h6 class="text-medium"><a href="#">John Shamulleson</a></h6>
-              <p class="text-light">Team Lead</p>
-              <ul class="list-unstyled list-inline team-bio-sm-links">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-              </ul>
-            </div>
-          </div>
-          &lt;!&ndash; Team Bio #2 Ends &ndash;&gt;
-          &lt;!&ndash; Team Bio #3 Starts &ndash;&gt;
-          <div class="col-md-3 col-sm-6 col-xs-12">
-            <div class="team-bio text-center animation">
-              <p><img src="images/team/team-img11.jpg" alt="Team Image" class="img-responsive img-center"></p>
-              <h6 class="text-medium"><a href="#">John Shamulleson</a></h6>
-              <p class="text-light">Team Lead</p>
-              <ul class="list-unstyled list-inline team-bio-sm-links">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-              </ul>
-            </div>
-          </div>
-          &lt;!&ndash; Team Bio #3 Ends &ndash;&gt;
-          &lt;!&ndash; Team Bio #4 Starts &ndash;&gt;
-          <div class="col-md-3 col-sm-6 col-xs-12">
-            <div class="team-bio text-center animation">
-              <p><img src="images/team/team-img12.jpg" alt="Team Image" class="img-responsive img-center"></p>
-              <h6 class="text-medium"><a href="#">John Shamulleson</a></h6>
-              <p class="text-light">Team Lead</p>
-              <ul class="list-unstyled list-inline team-bio-sm-links">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-              </ul>
-            </div>
-          </div>
-          &lt;!&ndash; Team Bio #4 Ends &ndash;&gt;
-        </div>
-        &lt;!&ndash; Nested Row Ends &ndash;&gt;
-      </section>
-      &lt;!&ndash; Team Section Ends &ndash;&gt;
-    </div>
-    &lt;!&ndash; Main Container Ends &ndash;&gt;-->
+
   </div>
 
 </template>

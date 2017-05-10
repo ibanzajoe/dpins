@@ -40,12 +40,7 @@ module.exports = {
    */
   build: {
     /*
-<<<<<<< HEAD
-    ** Run ESLINT on save
-    */
-=======
      ** Run ESLINT on save
      */
->>>>>>> upstream/master
   }
 }
