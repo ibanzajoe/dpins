@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- Top Bar Starts -->
     <div class="top-bar dark">
       <!-- Nested Container Starts -->
       <div class="container clearfix text-center-xs">
@@ -57,7 +58,85 @@
       </div>
       <!-- Nested Container Ends -->
     </header>
-
+    <!-- Header Ends -->
+    <!-- Nested Container Starts -->
+    <div class="container">
+      <!-- Main Menu Starts -->
+      <nav id="nav" class="main-menu one navbar flat">
+        <!-- Nested Container Starts -->
+        <div class="container-fluid">
+          <!-- Nav Header Starts -->
+          <div class="navbar-header">
+            <button type="button" class="btn btn-navbar navbar-toggle flat animation" data-toggle="collapse" data-target=".navbar-cat-collapse">
+              <span class="sr-only">Toggle Navigation</span>
+              <i class="fa fa-bars"></i>
+            </button>
+          </div>
+          <!-- Nav Header Ends -->
+          <!-- Navbar Cat collapse Starts -->
+          <div class="collapse navbar-collapse navbar-cat-collapse animation">
+            <!-- Nav Links Starts -->
+            <ul class="nav navbar-nav text-bold">
+              <li class="active dropdown">
+                <a href="css/index.html" class="dropdown-toggle" data-toggle="dropdown">Home <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu flat" role="menu">
+                  <li><a tabindex="-1" href="css/index.html">Home 1</a></li>
+                  <li><a tabindex="-1" href="index2.html">Home 2</a></li>
+                  <li><a tabindex="-1" href="index3.html">Home 3</a></li>
+                  <li><a tabindex="-1" href="index4.html">Home 4</a></li>
+                  <li class="active"><a tabindex="-1" href="index5.html">Home 5</a></li>
+                </ul>
+              </li>
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="services.html">Services</a></li>
+              <li class="dropdown">
+                <a href="blog.html" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu flat" role="menu">
+                  <li><a tabindex="-1" href="blog.html">Blog Page</a></li>
+                  <li><a tabindex="-1" href="blog-2col.html">Blog 2 Col</a></li>
+                  <li><a tabindex="-1" href="blog-3col.html">Blog 3 Col</a></li>
+                  <li><a tabindex="-1" href="blog-single.html">Blog Single Page</a></li>
+                </ul>
+              </li>
+              <li><a href="contact.html">Contact Us</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu flat" role="menu">
+                  <li tabindex="-1"><a href="team.html">Team</a></li>
+                  <li tabindex="-1"><a href="faq.html">Faq's</a></li>
+                  <li tabindex="-1"><a href="pricing.html">Pricing</a></li>
+                  <li tabindex="-1"><a href="gallery.html">Gallery</a></li>
+                  <li tabindex="-1"><a href="404.html">404</a></li>
+                  <li tabindex="-1"><a href="coming-soon.html">Coming Soon</a></li>
+                </ul>
+              </li>
+            </ul>
+            <!-- Nav Links Ends -->
+            <!-- Call Back Starts -->
+            <h6 class="navbar-right hidden-md hidden-sm hidden-xs text-uppercase animation">
+              <a href="#">Get A Call Back</a>
+            </h6>
+            <!-- Call Back Ends -->
+            <!-- Search Form Starts -->
+            <form class="navbar-form navbar-right hidden-sm hidden-xs" role="search">
+              <div class="input-group">
+                <input type="text" class="form-control" placeholder="Search">
+                <span class="input-group-btn">
+                                <button class="btn btn-default" type="button">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                            </span>
+              </div>
+            </form>
+            <!-- Search Form Ends -->
+          </div>
+          <!-- Navbar Cat collapse Ends -->
+        </div>
+        <!-- Nested Container Ends -->
+      </nav>
+      <!-- Main Menu Ends -->
+    </div>
+    <!-- Nested Container Ends -->
 
     <nuxt/>
 
