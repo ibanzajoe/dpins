@@ -1,7 +1,7 @@
 module.exports = {
   /*
-  ** Headers of the page
-  */
+   ** Headers of the page
+   */
   head: {
     title: 'starter',
     meta: [
@@ -32,15 +32,20 @@ module.exports = {
     ]
   },
   /*
-  ** Customize the progress-bar color
-  */
+   ** Customize the progress-bar color
+   */
   loading: { color: '#3B8070' },
   /*
-  ** Build configuration
-  */
+   ** Build configuration
+   */
   build: {
     /*
+<<<<<<< HEAD
     ** Run ESLINT on save
     */
+=======
+     ** Run ESLINT on save
+     */
+>>>>>>> upstream/master
   }
 }

@@ -78,36 +78,38 @@
             <!-- Nav Links Starts -->
             <ul class="nav navbar-nav text-bold">
               <li class="active dropdown">
-                <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Home <i class="fa fa-angle-down"></i></a>
+                <a href="css/index.html" class="dropdown-toggle" data-toggle="dropdown">Home <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <li><a tabindex="-1" href="index.html">Home 1</a></li>
+                  <li><a tabindex="-1" href="css/index.html">Home 1</a></li>
                   <li><a tabindex="-1" href="index2.html">Home 2</a></li>
                   <li><a tabindex="-1" href="index3.html">Home 3</a></li>
                   <li><a tabindex="-1" href="index4.html">Home 4</a></li>
                   <li class="active"><a tabindex="-1" href="index5.html">Home 5</a></li>
                 </ul>
               </li>
-              <li><a href="../../about.html">About Us</a></li>
-              <li><a href="../../services.html">Services</a></li>
+
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="services.html">Services</a></li>
               <li class="dropdown">
-                <a href="../../blog.html" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-angle-down"></i></a>
+                <a href="blog.html" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <li><a tabindex="-1" href="../../blog.html">Blog Page</a></li>
-                  <li><a tabindex="-1" href="../../blog-2col.html">Blog 2 Col</a></li>
-                  <li><a tabindex="-1" href="../../blog-3col.html">Blog 3 Col</a></li>
-                  <li><a tabindex="-1" href="../../blog-single.html">Blog Single Page</a></li>
+                  <li><a tabindex="-1" href="blog.html">Blog Page</a></li>
+                  <li><a tabindex="-1" href="blog-2col.html">Blog 2 Col</a></li>
+                  <li><a tabindex="-1" href="blog-3col.html">Blog 3 Col</a></li>
+                  <li><a tabindex="-1" href="blog-single.html">Blog Single Page</a></li>
                 </ul>
               </li>
-              <li><a href="../../contact.html">Contact Us</a></li>
+              <li><a href="contact.html">Contact Us</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <li tabindex="-1"><a href="../../team.html">Team</a></li>
-                  <li tabindex="-1"><a href="../../faq.html">Faq's</a></li>
-                  <li tabindex="-1"><a href="../../pricing.html">Pricing</a></li>
-                  <li tabindex="-1"><a href="../../gallery.html">Gallery</a></li>
-                  <li tabindex="-1"><a href="../../404.html">404</a></li>
-                  <li tabindex="-1"><a href="../../coming-soon.html">Coming Soon</a></li>
+                  <li tabindex="-1"><a href="team.html">Team</a></li>
+                  <li tabindex="-1"><a href="faq.html">Faq's</a></li>
+                  <li tabindex="-1"><a href="pricing.html">Pricing</a></li>
+                  <li tabindex="-1"><a href="gallery.html">Gallery</a></li>
+                  <li tabindex="-1"><a href="404.html">404</a></li>
+                  <li tabindex="-1"><a href="coming-soon.html">Coming Soon</a></li>
+
                 </ul>
               </li>
             </ul>
@@ -136,9 +138,12 @@
       </nav>
       <!-- Main Menu Ends -->
     </div>
+    <!-- Nested Container Ends -->
+
     <nuxt/>
-  
-  
+
+
+
     <section class="footer-top-1">
       <!-- Nested Container Starts -->
       <div class="container text-center-xs">
@@ -286,8 +291,6 @@
       <!-- Nested Container Ends -->
     </footer>
     <!-- Copyright Ends -->
-    
-    
   </div>
 </template>
 
@@ -337,4 +340,8 @@ html
   color: #fff;
   background-color: #35495e;
 }
+
+  .container {
+    min-height: 100%;
+  }
 </style>
