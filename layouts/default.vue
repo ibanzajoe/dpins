@@ -29,11 +29,13 @@
           </div>
           <!-- Logo Ends -->
           <!-- Address Starts -->
-          <div class="col-sm-3 col-xs-12 hidden-md hidden-sm hidden-xs col-lg-offset-1">
+          <div class="col-sm-4 col-xs-12 hidden-md hidden-sm hidden-xs">
             <div class="clearfix">
-              <i class="fa fa-map-marker pull-left-lg pull-left-md pull-left-sm circle"></i>
-              <h6 class="text-spl-color text-medium">1130 South San Gabriel Blvd Suite #202,</h6>
-              <p class="text-light"><em>San Gabriel, CA 91776-3155</em></p>
+              <div class="pull-right-lg">
+                <h6 class="text-spl-color text-medium">1130 S. San Gabriel Blvd #202,</h6>
+                <p class="text-light"><em>San Gabriel, CA 91776-3155</em></p>
+              </div>
+              <i class="fa fa-map-marker pull-right-lg pull-left-md pull-left-sm circle"></i>
             </div>
           </div>
           <!-- Address Ends -->
