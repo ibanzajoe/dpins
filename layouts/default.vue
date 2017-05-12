@@ -25,7 +25,9 @@
         <div class="row">
           <!-- Logo Starts -->
           <div class="col-lg-3 col-sm-4 col-xs-12">
-            <img src="images/logo/dp logo.png" alt="Fin Adviser" class="img-responsive img-center-xs logo">
+            <nuxt-link to="/">
+              <img src="images/logo/dp logo.png" alt="Fin Adviser" class="img-responsive img-center-xs logo">
+            </nuxt-link>
           </div>
           <!-- Logo Ends -->
           <!-- Address Starts -->
@@ -81,10 +83,11 @@
           <div class="collapse navbar-collapse navbar-cat-collapse animation">
             <!-- Nav Links Starts -->
             <ul class="nav navbar-nav text-bold">
-              <li><a href="about.html">Home</a></li>
+              <nuxt-link to="/" tag="li" active-class="active" exact><a>Home</a></nuxt-link>
+              <nuxt-link to="/about" tag="li" active-class="active" exact><a>About Us</a></nuxt-link>
+              <nuxt-link to="/contact-us" tag="li" active-class="active" exact><a>Contact Us</a></nuxt-link>
 
-              <li><a href="about.html">About Us</a></li>
-              <li class="active dropdown">
+              <li class="dropdown">
                 <a href="css/index.html" class="dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
                   <li><a tabindex="-1" href="css/index.html">Service 1</a></li>
