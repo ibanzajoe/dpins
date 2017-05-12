@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  www:
+    image: dpins/www:production
+    environment:
+      - VIRTUAL_HOST=dpins.penguin.ws
+    network_mode: "bridge"
+    restart: always
