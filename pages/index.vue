@@ -15,39 +15,17 @@
           </div>
         </div>
         <!-- Slide #1 Ends -->
-        <!-- Slide #2 Starts -->
-        <div class="item">
-          <img src="images/slider/slide-img-2.jpg" alt="Slide 2" class="img-responsive img-center">
-          <div class="carousel-caption text-center text-lite-color hidden-xs">
-            <h2 class="text-medium">Established in 1987</h2>
-            <h5 class="text-light">Over 30 Years in the Industry</h5>
-            <h5 class="text-light">We work to ensure your 100% satisfaction</h5>
-            <a href="#" class="btn btn-secondary animation">Services</a>
-          </div>
-        </div>
-        <!-- Slide #2 Ends -->
-        <!-- Slide #3 Starts -->
-        <div class="item">
-          <img src="images/slider/slide-img-3.jpg" alt="Slide 3" class="img-responsive img-center">
-          <div class="carousel-caption text-center text-lite-color hidden-xs">
-            <h2 class="text-medium">Selected Insurance Groups</h2>
-            <h5 class="text-light">Very Selective Insurance Companies</h5>
-            <h5 class="text-light">Best coverage at most competitive price</h5>
-            <a href="#" class="btn btn-secondary animation">More Link</a>
-          </div>
-        </div>
-        <!-- Slide #3 Ends -->
       </div>
       <!-- Wrapper For Slides Ends -->
       <!-- Control Starts -->
-      <a class="left carousel-control animation" href="#main-slider" role="button" data-slide="prev">
+      <!--<a class="left carousel-control animation" href="#main-slider" role="button" data-slide="prev">
         <span class="fa fa-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
       </a>
       <a class="right carousel-control animation" href="#main-slider" role="button" data-slide="next">
         <span class="fa fa-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
-      </a>
+      </a>-->
       <!-- Control Ends -->
 
     </div>
@@ -298,167 +276,6 @@
       <!-- Nested Container Ends -->
     </section>
     <!-- Why Us Section Ends -->
-    <!-- Support Section Starts -->
-    <section class="section-area section-style-2">
-      <!-- Nested Container Starts -->
-      <div class="container">
-        <!-- Nested Row Starts -->
-        <div class="row">
-          <!-- Left Col Starts -->
-          <div class="col-sm-6 col-xs-12  text-center-xs">
-            <!-- Heading Starts -->
-            <h4 class="section-heading-1 text-center-xs no-margin-top">We Are Ready <span>To Help You</span></h4>
-            <!-- Heading Ends -->
-            <!-- Content Starts -->
-            <p class="text-justify">
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-            </p>
-            <!-- Content Ends -->
-            <!-- Spacer Starts -->
-            <div class="spacer-tiny"></div>
-            <!-- Spacer Ends -->
-            <!-- Stats Starts -->
-            <ul class="list-unstyled row list-stats text-center no-margin-bottom">
-              <li class="col-sm-4 col-xs-12">
-                <h4 class="text-spl-color text-bold badges-counter">451</h4>
-                <h6 class="text-medium">Happy Customers</h6>
-              </li>
-              <li class="col-sm-4 col-xs-12">
-                <h4 class="text-spl-color text-bold badges-counter">37</h4>
-                <h6 class="text-medium">Advisory Team</h6>
-              </li>
-              <li class="col-sm-4 col-xs-12">
-                <h4 class="text-spl-color text-bold badges-counter">16</h4>
-                <h6 class="text-medium">Years of Experience</h6>
-              </li>
-            </ul>
-            <!-- Stats Ends -->
-          </div>
-          <!-- Left Col Ends -->
-          <!-- Right Col Starts -->
-          <div class="col-sm-6 col-xs-12">
-            <!-- Accordions Starts -->
-            <div class="panel-group" id="accordion-help">
-              <!-- Accordion #1 Starts -->
-              <div class="panel flat">
-                <!-- Panel Heading Starts -->
-                <div class="panel-heading flat">
-                  <h6 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse1">
-                      What we are ?
-                    </a>
-                  </h6>
-                </div>
-                <!-- Panel Heading Ends -->
-                <!-- Panel Body Starts -->
-                <div id="collapse1" class="panel-collapse collapse in">
-                  <div class="panel-body">
-                    <p>
-                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-                    </p>
-                  </div>
-                </div>
-                <!-- Panel Body Ends -->
-              </div>
-              <!-- Accordion #1 Ends -->
-              <!-- Accordion #2 Starts -->
-              <div class="panel flat">
-                <!-- Panel Heading Starts -->
-                <div class="panel-heading flat">
-                  <h6 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse2">
-                      How we do ?
-                    </a>
-                  </h6>
-                </div>
-                <!-- Panel Heading Ends -->
-                <!-- Panel Body Starts -->
-                <div id="collapse2" class="panel-collapse collapse">
-                  <div class="panel-body">
-                    <p>
-                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-                    </p>
-                  </div>
-                </div>
-                <!-- Panel Body Ends -->
-              </div>
-              <!-- Accordion #2 Ends -->
-              <!-- Accordion #3 Starts -->
-              <div class="panel flat">
-                <!-- Panel Heading Starts -->
-                <div class="panel-heading flat">
-                  <h6 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse3">
-                      Our Mission
-                    </a>
-                  </h6>
-                </div>
-                <!-- Panel Heading Ends -->
-                <!-- Panel Body Starts -->
-                <div id="collapse3" class="panel-collapse collapse">
-                  <div class="panel-body">
-                    <p>
-                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-                    </p>
-                  </div>
-                </div>
-                <!-- Panel Body Ends -->
-              </div>
-              <!-- Accordion #3 Ends -->
-              <!-- Accordion #4 Starts -->
-              <div class="panel flat">
-                <!-- Panel Heading Starts -->
-                <div class="panel-heading flat">
-                  <h6 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse4">
-                      Our Vision
-                    </a>
-                  </h6>
-                </div>
-                <!-- Panel Heading Ends -->
-                <!-- Panel Body Starts -->
-                <div id="collapse4" class="panel-collapse collapse">
-                  <div class="panel-body">
-                    <p>
-                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-                    </p>
-                  </div>
-                </div>
-                <!-- Panel Body Ends -->
-              </div>
-              <!-- Accordion #4 Ends -->
-              <!-- Accordion #5 Starts -->
-              <div class="panel flat">
-                <!-- Panel Heading Starts -->
-                <div class="panel-heading flat">
-                  <h6 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion-help" href="#collapse5">
-                      Professional Advisors
-                    </a>
-                  </h6>
-                </div>
-                <!-- Panel Heading Ends -->
-                <!-- Panel Body Starts -->
-                <div id="collapse5" class="panel-collapse collapse">
-                  <div class="panel-body">
-                    <p>
-                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-                    </p>
-                  </div>
-                </div>
-                <!-- Panel Body Ends -->
-              </div>
-              <!-- Accordion #5 Ends -->
-            </div>
-            <!-- Accordions Ends -->
-          </div>
-          <!-- Right Col Ends -->
-        </div>
-        <!-- Nested Row Ends -->
-      </div>
-      <!-- Nested Container Ends -->
-    </section>
-
   </div>
 
 </template>

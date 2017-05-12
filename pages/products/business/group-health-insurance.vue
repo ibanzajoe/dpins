@@ -3,7 +3,7 @@
     <section class="main-banner text-center-xs">
       <!-- Nested Container Starts -->
       <div class="container text-lite-color">
-        <h2 class="text-medium">About Us</h2>
+        <h2 class="text-medium">Group Health Insurance</h2>
       </div>
       <!-- Nested Container Ends -->
     </section>
@@ -11,8 +11,9 @@
     <!-- Breadcrumb Starts -->
     <div class="container text-center-xs">
       <ol class="breadcrumb flat">
-        <li><a href="css/index.html">Home</a></li>
-        <li class="active">About Us</li>
+        <li><nuxt-link to="/">Home</nuxt-link></li>
+        <li>Business</li>
+        <li class="active">Group Health Insurance</li>
       </ol>
     </div>
     <!-- Breadcrumb Ends -->

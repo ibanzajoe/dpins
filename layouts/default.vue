@@ -26,7 +26,7 @@
           <!-- Logo Starts -->
           <div class="col-lg-3 col-sm-4 col-xs-12">
             <nuxt-link to="/">
-              <img src="images/logo/dp logo.png" alt="Fin Adviser" class="img-responsive img-center-xs logo">
+              <img src="/images/logo/dp logo.png" alt="Fin Adviser" class="img-responsive img-center-xs logo">
             </nuxt-link>
           </div>
           <!-- Logo Ends -->
@@ -55,7 +55,7 @@
             <div class="clearfix text-right-md text-right-sm">
               <i class="fa fa-envelope-o pull-left-lg pull-right-md pull-right-sm circle"></i>
               <h6 class="text-spl-color text-medium">Mail Us @</h6>
-              <p class="text-light"><em><a href="#">procenter@dp-formosa.com</a></em></p>
+              <p class="text-light"><em><a href="mailto:procenter@dp-formosa.com">procenter@dp-formosa.com</a></em></p>
             </div>
           </div>
           <!-- Mail Us Ends -->
@@ -85,27 +85,21 @@
             <ul class="nav navbar-nav text-bold">
               <nuxt-link to="/" tag="li" active-class="active" exact><a>Home</a></nuxt-link>
               <nuxt-link to="/about" tag="li" active-class="active" exact><a>About Us</a></nuxt-link>
-              <nuxt-link to="/contact-us" tag="li" active-class="active" exact><a>Contact Us</a></nuxt-link>
 
-              <li class="dropdown">
-                <a href="css/index.html" class="dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
+
+              <nuxt-link to="/products/individual" tag="li" active-class="active" class="dropdown">
+                <a>Individual Products <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <li><a tabindex="-1" href="css/index.html">Service 1</a></li>
-                  <li><a tabindex="-1" href="index2.html">Service 2</a></li>
-                  <li><a tabindex="-1" href="index3.html">Service 3</a></li>
-                  <li><a tabindex="-1" href="index4.html">Service 4</a></li>
-                  <li class="active"><a tabindex="-1" href="index5.html">Home 5</a></li>
+                  <nuxt-link to="/products/individual/health-insurance" tag="li" active-class="active" exact><a>Health Insurance</a></nuxt-link>
                 </ul>
-              </li>
-              <li class="dropdown">
-                <a href="blog.html" class="dropdown-toggle" data-toggle="dropdown">Products <i class="fa fa-angle-down"></i></a>
+              </nuxt-link>
+
+              <nuxt-link to="/products/business" tag="li" active-class="active" class="dropdown">
+                <a>Business Products <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <li><a tabindex="-1" href="blog.html">Product 1</a></li>
-                  <li><a tabindex="-1" href="blog-2col.html">Product 2</a></li>
-                  <li><a tabindex="-1" href="blog-3col.html">Product 3</a></li>
-                  <li><a tabindex="-1" href="blog-single.html">Product 4</a></li>
+                  <nuxt-link to="/products/business/group-health-insurance" tag="li" active-class="active" exact><a>Group Health Insurance</a></nuxt-link>
                 </ul>
-              </li>
+              </nuxt-link>
             </ul>
             <!-- Nav Links Ends -->
             <!-- Call Back Starts -->
@@ -146,7 +140,7 @@
           <!-- Left Col Starts -->
           <div class="col-md-6 col-xs-12">
             <!-- Contact Info Fin Advisor Starts -->
-            <h4 class="section-heading-1 text-center-xs">Contact Info <span>Fin Advisor</span></h4>
+            <h4 class="section-heading-1 text-center-xs">Contact Info <span>DP Insurance</span></h4>
             <p>
               <strong>There are many variations of passages of Lorem Ipsum</strong> available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
             </p>
@@ -156,8 +150,7 @@
                 <div class="foot-col-1">
                   <h5><i class="fa fa-phone"></i> Phone</h5>
                   <ul class="list-unstyled list-phone-no">
-                    <li>(123) 45678910</li>
-                    <li>001 998 956 1234</li>
+                    <li>1-626-292-6608</li>
                   </ul>
                 </div>
               </div>
@@ -167,8 +160,7 @@
                 <div class="foot-col-1">
                   <h5><i class="fa fa-envelope"></i> Email</h5>
                   <ul class="list-unstyled list-email">
-                    <li><a href="#">support@demosite.com</a></li>
-                    <li><a href="#">info@ demosite.com</a></li>
+                    <li><a href="mailto:procenter@dp-formosa.com">procenter@dp-formosa.com</a></li>
                   </ul>
                 </div>
               </div>
@@ -178,33 +170,21 @@
                 <div class="foot-col-1">
                   <h5><i class="fa fa-map-marker"></i> Address</h5>
                   <ul class="list-unstyled list-address">
-                    <li><strong>#781, Shah Ali Banda, </strong></li>
-                    <li>Chairminar,  Telangana</li>
+                    <li><strong>1130 S. San Gabriel Blvd #202</strong></li>
+                    <li>San Gabriel, CA 91776-3155</li>
                   </ul>
                 </div>
               </div>
               <!-- Address Ends -->
             </div>
             <!-- Contact Info Fin Advisor Ends -->
-            <!-- Popular Tags Starts -->
-            <h4 class="section-heading-1 text-center-xs">Popular <span>Tags</span></h4>
-            <ul class="list-unstyled list-inline list-post-tags animation">
-              <li><a href="#">Income</a></li>
-              <li><a href="#">Business</a></li>
-              <li><a href="#">Planning</a></li>
-              <li><a href="#">Aduting</a></li>
-              <li><a href="#">Finance</a></li>
-              <li><a href="#">Financial Advisor</a></li>
-              <li><a href="#">Assessment</a></li>
-            </ul>
-            <!-- Popular Tags Ends -->
           </div>
           <!-- Left Col Ends -->
           <!-- Right Col Starts -->
           <div class="col-md-6 col-xs-12">
             <!-- Schedule an Appointment Starts -->
             <h4 class="section-heading-1 text-center-xs">Schedule an <span>Appointment</span></h4>
-            <form action="#" class="appointment-form">
+            <form @submit.prevent="handle_schedule_form" class="appointment-form">
               <!-- Nested Row Starts -->
               <div class="row">
                 <!-- First Name Starts -->
@@ -224,29 +204,19 @@
                 <!-- Email Ends -->
                 <!-- Type of Service Starts -->
                 <div class="col-sm-6 col-xs-12">
-                  <select class="form-control flat animation">
-                    <option>Type of Services</option>
-                    <option value="Services1">Services 1</option>
-                    <option value="Services2">Services 2</option>
-                    <option value="Services3">Services 3</option>
-                  </select>
+                  <input type="tel" class="form-control flat animation" placeholder="Phone No">
+
                 </div>
                 <!-- Type of Service Ends -->
                 <!-- Phone No Starts -->
-                <div class="col-sm-6 col-xs-12">
-                  <input type="tel" class="form-control flat animation" placeholder="Phone No">
-                </div>
-                <!-- Phone No Ends -->
-                <!-- Location Starts -->
-                <div class="col-sm-6 col-xs-12">
+                <div class="col-xs-12">
                   <select class="form-control flat animation">
-                    <option>Locations</option>
-                    <option value="Location1">Location 1</option>
-                    <option value="Location2">Location 2</option>
-                    <option value="Location3">Location 3</option>
+                    <option>Type of Services</option>
+                    <option value="individual">Individual Insurance</option>
+                    <option value="business">Business Insurance</option>
                   </select>
                 </div>
-                <!-- Location Ends -->
+                <!-- Phone No Ends -->
                 <!-- Message Starts -->
                 <div class="col-xs-12">
                   <textarea rows="5" class="form-control flat animation" placeholder="Message"></textarea>
@@ -280,13 +250,23 @@
           <li><a href="#"><i class="fa fa-instagram"></i></a></li>
           <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
         </ul>
-        <em class="text-light">Fin Advisor &copy; 2017. All Rights Reserved. Designed By <a href="#">Sainath Chillapuram</a></em>
+        <em class="text-light">DP Insurance &copy; 2017. All Rights Reserved. Designed By <a href="http://www.penguin.ws">Penguin Website Inc.</a></em>
       </div>
       <!-- Nested Container Ends -->
     </footer>
     <!-- Copyright Ends -->
   </div>
 </template>
+
+<script type="text/ecmascript-6">
+  export default {
+    methods: {
+      handle_schedule_form () {
+        swal("Good job!", "You clicked the button!", "success")
+      }
+    }
+  }
+</script>
 
 <style>
 html
