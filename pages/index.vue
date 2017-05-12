@@ -44,9 +44,10 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="intro-col">
               <i class="fa fa-bar-chart-o circle"></i>
-              <h5 class="text-bold">Free Online Quotes</h5>
+              <h5 class="text-bold">Business Insurance</h5>
               <p>
-                We offer free quotes to our carefully selected insurance agencies suited for your needs
+                Running a successful business comes with liabilities you have to consider.  Protect your business from
+                expensive liability claims.
               </p>
             </div>
           </div>
@@ -55,9 +56,9 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="intro-col">
               <i class="fa fa-group circle"></i>
-              <h5 class="text-bold">Security and Protection</h5>
+              <h5 class="text-bold">Homeowner Policy</h5>
               <p>
-                Information regarding insurance is crucial and private.  We keep your information secure.
+                Homeowners' insurance provides coverage for unforeseeable disasters.  A standard policy insures the house as well as your valuables.
               </p>
             </div>
           </div>
@@ -66,10 +67,10 @@
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="intro-col">
               <i class="fa fa-money circle"></i>
-              <h5 class="text-bold">Competitive Prices</h5>
+              <h5 class="text-bold">Auto Insurance</h5>
               <p>
-                Insurance is expensive, our service keeps you informed in regards to your insurance needs so you
-                can pick the best plan that is right for you
+                Most states in the US requires that you must be insured to operate a vehicle.  For most drivers, an auto insurance is
+                a must.  Drive with confidence.  Get insured!
               </p>
             </div>
           </div>
@@ -80,8 +81,7 @@
               <i class="fa fa-bar-chart-o circle"></i>
               <h5 class="text-bold">Life Insurance</h5>
               <p>
-                Don't put off getting life insurance, protect your family and their financial future.  It is cheaper
-                to get insured early.
+                Life insurance is about protecting your loved ones and ensuring they will be taken care of.
               </p>
             </div>
           </div>
@@ -92,8 +92,7 @@
               <i class="fa fa-group circle"></i>
               <h5 class="text-bold">Health Insurance</h5>
               <p>
-                For most, health insurance is just that, insurance.  You never want to have to use it, but glad when
-                you need it and you have it.  Don't delay to get insured.
+                Health care is expensive and the prices are expected to rise.  Don't get caught off guard by a huge medical bill.
               </p>
             </div>
           </div>
@@ -131,20 +130,17 @@
             <p>
               With over 30 years of experience, DP Insurance takes pride in providing our customers the best insurance policies that are right for them.
             </p>
-            <p>What you can expect from our insurance agency is a dedicated service in getting our customers the insurance plan they need that is right for them.</p>
+            <p>What you can expect from our insurance agency is a dedicated service in getting you the insurance plan you need that is right for you.</p>
             <!-- Content Ends -->
             <!-- List Starts -->
             <ul class="list-unstyled row text-medium">
               <li class="col-sm-6 col-xs-12">Free Online Quotes</li>
               <li class="col-sm-6 col-xs-12">Quote Comparison</li>
               <li class="col-sm-6 col-xs-12">Application Filing</li>
-              <li class="col-sm-6 col-xs-12">Analysis of needs</li>
+              <li class="col-sm-6 col-xs-12">Competitive Prices</li>
               <li class="col-sm-6 col-xs-12">Dedicated Team</li>
               <li class="col-sm-6 col-xs-12">Quick and Easy Access</li>
-              <li class="col-sm-6 col-xs-12">Business Insurance</li>
-              <li class="col-sm-6 col-xs-12">Family Health Plans</li>
-              <li class="col-sm-6 col-xs-12">Life Insurance Policies</li>
-              <li class="col-sm-6 col-xs-12">Auto Insurance Policies</li>
+              
             </ul>
             <!-- List Ends -->
           </div>

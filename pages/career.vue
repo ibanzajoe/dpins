@@ -3,7 +3,7 @@
     <section class="main-banner text-center-xs">
       <!-- Nested Container Starts -->
       <div class="container text-lite-color">
-        <h2 class="text-medium">Health Insurance</h2>
+        <h2 class="text-medium">Career</h2>
       </div>
       <!-- Nested Container Ends -->
     </section>
@@ -12,8 +12,7 @@
     <div class="container text-center-xs">
       <ol class="breadcrumb flat">
         <li><nuxt-link to="/">Home</nuxt-link></li>
-        <li>Individual</li>
-        <li class="active">Health Insurance</li>
+        <li class="active">Career</li>
       </ol>
     </div>
     <!-- Breadcrumb Ends -->
@@ -30,16 +29,10 @@
         <!-- Content Starts -->
         <div class="col-sm-7 col-xs-12">
           <p class="lead">
-            <strong>What is health insurance?</strong>
+            Career
           </p>
           <p>
-            Health insurance is an insurance plan where the insurer pays for the medical costs of the person being covered.
-            When the person covered under the health insurance plan becomes sick, the insurance company (insurer) pays the
-            medical costs on behalf of the individual who is covered.
-          </p>
-          <p>
-            The insurer may be a private organization or a government entity.  Market based health care systems, like the
-            one in the United States, rely primarily on private health insurance companies.
+            DP Insurance Agency, Inc. (The company "DP Insurance Agency") well established company in Los Angeles since 1987, as a "full self function insurance company" DP Insurance Agency is a great environment to work in. Because we recognize the extraordinary value of the talented and tools to motivated people that comprise DP Insurance Agency, we work hard to make DP Insurance Agency Values the foundation of our business. It is the little things such as making sure all of our employees understand our objectives. We meet regularly with our employees to update them on everything that is occurring in the company. We have generous office space and a great benefits package. Our management team plays a supportive role to the individuals who are at the front line to serve our customers, vendors, and our partners. We make sure our staffs are enthusiastic, motivated, and well trained; therefore, above everything else, we can ensure excellent customer service, which will bring success to the company
           </p>
         </div>
         <!-- Content Ends -->
@@ -53,22 +46,10 @@
         <!-- Content Starts -->
         <div class="col-sm-7 col-xs-12">
           <p class="lead">
-            <strong>Why do we need health insurance?</strong>
+            <strong>1. Values</strong>
           </p>
           <p>
-            Medical conditions can be costly and the cost of medicine has been consistently increasing.  Health insurance
-            plans protects your financial well being by mitigating your risks from the high medical care costs that can come about suddenly.
-          </p>
-          
-          <p>
-            In most cases, many individuals receive their health insurance from their employers.  The employer helps
-            pay for that insurance and the plans have contracts with health care providers and medical facilities to provide care
-            at reduced costs.
-          </p>
-          
-          <p>
-            You can also purchase health insurances on your own.  For most people, it will cost more than employer-based insurance plans,
-            but individuals who meet certain requirements can qualify for government funded health insurance such as Medicare and Medicaid.
+            The values are the foundation on which we want to continue to build our business. Our collective objective should be to adhere to these values in everything we do (a) Customer experience, (b) Recognition, (c) Innovation, (d) Integrity, and (e) Enthusiasm
           </p>
         </div>
         <!-- Content Ends -->
@@ -79,7 +60,7 @@
         </div>
         <!-- Image Media Ends -->
       </div>
-  
+      
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
@@ -90,23 +71,29 @@
         <!-- Content Starts -->
         <div class="col-sm-7 col-xs-12">
           <p class="lead">
-            <strong>What factors are affecting insurance price?</strong>
+            <strong>2. Benefit Summary</strong>
           </p>
           <p>
-            Advances in medical technology and medical treatment has allowed for people in developed nations to live longer.
-            But this longer life is creating a larger "aging" population who require more health care and more specialized
-            medical assistance than the younger, healthier population.  These factors cause an increase in the price of health
-            insurance.
+            Employees who passed the training period are entitled to have 5 days sick leave (No roll over allow). Please see below chart for vacation leave
           </p>
+          
           <p>
-            For the individual buying insurance, the cost can vary depending on the current health of the individual.  Health
-            related issues that can affect the overall insurance cost are: insufficient exercise, unhealthy food choices,
-            living in impoverished or rural areas where access is more difficult, excessive alcohol use, smoking, drug use, and
-            obesity
+            Under vacation leaves, it is actually increasing to two weeks after two years of employment instead of three years. For paid holidays, we don't have a day off on Christmas Eve, so its actually seven paid holidays per calendar year.
+          </p>
+          
+          <p>
+            CSR are entitled to claim incentive from company commission. Company also offer 401K Retirement Plan as part of employees benefit. (Only eligible for employees who are 21 yrs old after one year of employment).
+          </p>
+          
+          <p>
+            We are always interested in talented and motivated people. Please submit your resume and cover letter to 1130 S. San Gabriel Blvd., Suite # 202, San Gabriel, CA 91776 – 3155 and thank you for your interest in DP Insurance Agency.
           </p>
         </div>
         <!-- Content Ends -->
       </div>
+      
+      <br>
+      
       <!-- Nested Row Ends -->
       <!-- Spacer Starts -->
       <div class="spacer"></div>

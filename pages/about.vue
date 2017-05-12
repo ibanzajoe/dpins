@@ -29,13 +29,15 @@
         <!-- Content Starts -->
         <div class="col-sm-7 col-xs-12">
           <p class="lead">
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+            We established DP Insurance Agency in 1987 and since then, our company has grown to a full service insurance agency.
           </p>
           <p>
-            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.
+            DP Insurance provides services catering to the insurance needs of businesses, individuals, and families.
           </p>
           <p>
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum.
+            We are an independent insurance agency which means you are our customers, NOT the insurance companies we
+            contract to serve your needs.  We work by your side during your hardest times and see to it that you get fair
+            treatment and compensation as well as prompt service for your insurance needs.
           </p>
         </div>
         <!-- Content Ends -->
@@ -49,17 +51,19 @@
         <!-- Content Starts -->
         <div class="col-sm-7 col-xs-12">
           <p class="lead">
-            Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+            We represent a group of carefully selected and financially sound insurance companies to ensure that our
+            clients receive the best coverage at the most competitive price.
           </p>
           <p>
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum.
+            Our web services are connected directly to the companies we have contracted which allows us to provide
+            a quicker mode of communication with our clients.  This keeps you up-to-date on any recent transactions
+            or any changes to your policies that you need to be aware of automatically.  With DP Insurance Agency, you get:
           </p>
           <ul class="text-grey-color">
-            <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-            <li>Industry's standard dummy text ever since.</li>
-            <li>When an unknown printer took.</li>
-            <li>Scrambled it to make a type specimen book.</li>
-            <li>It has survived not only five centuries, but also the leap into electronic typesetting.</li>
+            <li>Dedicated service catering to your specific needs</li>
+            <li>Knowledge of Industry Standards and Compliance</li>
+            <li>Competitive Prices</li>
+            <li>Quick and Efficient Processing and up-to-date information</li>
           </ul>
         </div>
         <!-- Content Ends -->
