@@ -142,7 +142,8 @@
             <!-- Contact Info Fin Advisor Starts -->
             <h4 class="section-heading-1 text-center-xs">Contact Info <span>DP Insurance</span></h4>
             <p>
-              <strong>There are many variations of passages of Lorem Ipsum</strong> available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+              <strong>Get help navigating the complex world of insurance</strong>, choose DP Insurance Agency.  We make insurance quick and easy
+              so you can have the peace of mind that you are covered.
             </p>
             <div class="row">
               <!-- Phone Col Starts -->
@@ -244,11 +245,11 @@
       <!-- Nested Container Starts -->
       <div class="container text-center text-lite-color">
         <ul class="list-unstyled list-inline">
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-          <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+          <li><a href="#">| Terms of Use |</a></li>
+          <li><a href="#">| Career |</a></li>
+          <li><a href="#">| Privacy Policy |</a></li>
+          <!--<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+          <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>-->
         </ul>
         <em class="text-light">DP Insurance &copy; 2017. All Rights Reserved. Designed By <a href="http://www.penguin.ws">Penguin Website Inc.</a></em>
       </div>

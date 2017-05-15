@@ -3,7 +3,7 @@
     <section class="main-banner text-center-xs">
       <!-- Nested Container Starts -->
       <div class="container text-lite-color">
-        <h2 class="text-medium">Group Health Insurance</h2>
+        <h2 class="text-medium">Business Insurances</h2>
       </div>
       <!-- Nested Container Ends -->
     </section>
@@ -13,7 +13,7 @@
       <ol class="breadcrumb flat">
         <li><nuxt-link to="/">Home</nuxt-link></li>
         <li>Business</li>
-        <li class="active">Group Health Insurance</li>
+        <li class="active">Business Insurance</li>
       </ol>
     </div>
     <!-- Breadcrumb Ends -->
@@ -30,13 +30,18 @@
         <!-- Content Starts -->
         <div class="col-sm-7 col-xs-12">
           <p class="lead">
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+            <strong>Why do you need business insurance?</strong>
           </p>
           <p>
-            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary.
+            When running a business, you HAVE to consider your liabilities.  Even if you don't have a big, prosperous,
+            business, liability insurance is essential and can be a crucial part of protecting your business and financial
+            health.
           </p>
           <p>
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum.
+            Liability insurance covers employees and customer injuries that may occur at your place of business.  Even in
+            cases where someone you are not associated with causes someone else injury at your place of business,
+            your business may still be held liable for damages.  Liability insurance can cover you from such claims of personal injury
+            as well as any other claims involving any type of abuse and sexual harassment.
           </p>
         </div>
         <!-- Content Ends -->
@@ -50,17 +55,24 @@
         <!-- Content Starts -->
         <div class="col-sm-7 col-xs-12">
           <p class="lead">
-            Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+            <strong>What are the different types of business insurances (commonly used)?</strong>
           </p>
           <p>
-            It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum.
+            There are various liabilities insurance for businesses.  <strong>General liabilities insurance</strong> protects
+            you from most business associated injuries and accidents.  <strong>Professional liabilities</strong> are often used because they
+            are legal requirements that are needed to operate the business.  It protects you from claims of your clients
+            who may have suffered losses from your malpractice, professional advice, errors and/or negligence.  <strong>Product liabilities</strong>
+            protects your business from potential problems caused by your product.  Customers may use your product improperly
+            that may have potential risks.  The amount of coverage vary depending on what products and/or services your business
+            serves.  Some business liability insurances include:
           </p>
           <ul class="text-grey-color">
-            <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
-            <li>Industry's standard dummy text ever since.</li>
-            <li>When an unknown printer took.</li>
-            <li>Scrambled it to make a type specimen book.</li>
-            <li>It has survived not only five centuries, but also the leap into electronic typesetting.</li>
+            <li>Commercial General Liability Insurance (CGPL)</li>
+            <li>Business Automobile Policy (BAP)</li>
+            <li>Employers Liability and Workers Compensation</li>
+            <li>Manufacturers and Contractors Liabilities (M&C)</li>
+            <li>Owners, Landlords, and Tenants Liability Insurance Policy (OL&T)</li>
+            <li>Physicians, Surgeons, and Dentists Professional Liability</li>
           </ul>
         </div>
         <!-- Content Ends -->
