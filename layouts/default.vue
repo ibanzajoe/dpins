@@ -92,6 +92,7 @@
                 <ul class="dropdown-menu flat" role="menu">
                   <nuxt-link to="/products/individual/health-insurance" tag="li" active-class="active" exact><a>Health Insurance</a></nuxt-link>
                   <nuxt-link to="/products/individual/life-insurance" tag="li" active-class="active" exact><a>Life Insurance</a></nuxt-link>
+                  <nuxt-link to="/products/individual/auto-insurance" tag="li" active-class="active" exact><a>Auto Insurance</a></nuxt-link>
                 </ul>
               </nuxt-link>
 
@@ -100,6 +101,7 @@
                 <ul class="dropdown-menu flat" role="menu">
                   <nuxt-link to="/products/business/group-health-insurance" tag="li" active-class="active" exact><a>Group Health Insurance</a></nuxt-link>
                   <nuxt-link to="/products/business/workers-comp" tag="li" active-class="active" exact><a>Workers' Compensation</a></nuxt-link>
+                  <nuxt-link to="/products/business/error-omission" tag="li" active-class="active" exact><a>Errors and Omissions</a></nuxt-link>
                 </ul>
               </nuxt-link>
             </ul>
