@@ -5,8 +5,8 @@
       <!-- Wrapper For Slides Starts -->
       <div class="carousel-inner">
         <!-- Slide #1 Starts -->
-        <div class="item active">
-          <img src="images/slider/slide-img-4.jpg" alt="Slide 1" class="img-responsive img-center">
+        <div class="item active" >
+          <img src="images/user/insurance-hero.jpg" alt="Slide 1" class="img-responsive img-center">
           <div class="carousel-caption text-center text-lite-color hidden-xs">
             <h2 class="text-medium">Independent Insurance Agency</h2>
             <h5 class="text-light">Always Independent</h5>
@@ -152,18 +152,18 @@
     </section>
     <!-- Services Section Ends -->
     <!-- Why Us Section Starts -->
-    <section class="section-area why-us-section">
-      <!-- Nested Container Starts -->
+    <!--<section class="section-area why-us-section">
+      &lt;!&ndash; Nested Container Starts &ndash;&gt;
       <div class="container">
-        <!-- Heading Starts -->
+        &lt;!&ndash; Heading Starts &ndash;&gt;
         <h4 class="section-heading-1 text-center-xs no-margin-top">Why Choose <span>DP Insurance?</span></h4>
-        <!-- Heading Ends -->
-        <!-- Spacer Starts -->
+        &lt;!&ndash; Heading Ends &ndash;&gt;
+        &lt;!&ndash; Spacer Starts &ndash;&gt;
         <div class="spacer-tiny"></div>
-        <!-- Spacer Ends -->
-        <!-- Nested Row Starts -->
+        &lt;!&ndash; Spacer Ends &ndash;&gt;
+        &lt;!&ndash; Nested Row Starts &ndash;&gt;
         <div class="row">
-          <!-- Col #1 Starts -->
+          &lt;!&ndash; Col #1 Starts &ndash;&gt;
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image17.jpg" alt="Image" class="img-responsive img-center animation">
@@ -179,8 +179,8 @@
               <h5 class="why-us-item-bar animation"><i class="fa fa-share-square"></i> Quality Service</h5>
             </div>
           </div>
-          <!-- Col #1 Ends -->
-          <!-- Col #2 Starts -->
+          &lt;!&ndash; Col #1 Ends &ndash;&gt;
+          &lt;!&ndash; Col #2 Starts &ndash;&gt;
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image18.jpg" alt="Image" class="img-responsive img-center animation">
@@ -197,8 +197,8 @@
               <h5 class="why-us-item-bar animation"><i class="fa fa-bar-chart-o"></i> Quality Assurance</h5>
             </div>
           </div>
-          <!-- Col #2 Ends -->
-          <!-- Col #3 Starts -->
+          &lt;!&ndash; Col #2 Ends &ndash;&gt;
+          &lt;!&ndash; Col #3 Starts &ndash;&gt;
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image19.jpg" alt="Image" class="img-responsive img-center animation">
@@ -214,8 +214,8 @@
               <h5 class="why-us-item-bar animation"><i class="fa fa-clock-o"></i> Record Keeping</h5>
             </div>
           </div>
-          <!-- Col #3 Ends -->
-          <!-- Col #4 Starts -->
+          &lt;!&ndash; Col #3 Ends &ndash;&gt;
+          &lt;!&ndash; Col #4 Starts &ndash;&gt;
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image20.jpg" alt="Image" class="img-responsive img-center animation">
@@ -231,8 +231,8 @@
               <h5 class="why-us-item-bar animation"><i class="fa fa-cloud-download"></i> Frequently Updated</h5>
             </div>
           </div>
-          <!-- Col #4 Ends -->
-          <!-- Col #5 Starts -->
+          &lt;!&ndash; Col #4 Ends &ndash;&gt;
+          &lt;!&ndash; Col #5 Starts &ndash;&gt;
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image21.jpg" alt="Image" class="img-responsive img-center animation">
@@ -248,8 +248,8 @@
               <h5 class="why-us-item-bar animation"><i class="fa fa-cogs"></i> Application Assistance</h5>
             </div>
           </div>
-          <!-- Col #5 Ends -->
-          <!-- Col #6 Starts -->
+          &lt;!&ndash; Col #5 Ends &ndash;&gt;
+          &lt;!&ndash; Col #6 Starts &ndash;&gt;
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="why-us-item">
               <img src="images/image22.jpg" alt="Image" class="img-responsive img-center animation">
@@ -265,12 +265,12 @@
               <h5 class="why-us-item-bar animation"><i class="fa fa-tachometer"></i> Business Protection</h5>
             </div>
           </div>
-          <!-- Col #6 Ends -->
+          &lt;!&ndash; Col #6 Ends &ndash;&gt;
         </div>
-        <!-- Nested Row Ends -->
+        &lt;!&ndash; Nested Row Ends &ndash;&gt;
       </div>
-      <!-- Nested Container Ends -->
-    </section>
+      &lt;!&ndash; Nested Container Ends &ndash;&gt;
+    </section>-->
     <!-- Why Us Section Ends -->
   </div>
 
