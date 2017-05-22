@@ -84,8 +84,15 @@
             <!-- Nav Links Starts -->
             <ul class="nav navbar-nav text-bold">
               <nuxt-link to="/" tag="li" active-class="active" exact><a>Home</a></nuxt-link>
-              <nuxt-link to="/about" tag="li" active-class="active" exact><a>About Us</a></nuxt-link>
 
+              <nuxt-link to="/products/business" tag="li" active-class="active" class="dropdown">
+                <a>Business Products <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu flat" role="menu">
+                  <nuxt-link to="/products/business/business-insurance" tag="li" active-class="active" exact><a>Business Insurance</a></nuxt-link>
+                  <nuxt-link to="/products/business/workers-comp" tag="li" active-class="active" exact><a>Workers' Compensation</a></nuxt-link>
+                  <nuxt-link to="/products/business/error-omission" tag="li" active-class="active" exact><a>Errors and Omissions</a></nuxt-link>
+                </ul>
+              </nuxt-link>
 
               <nuxt-link to="/products/individual" tag="li" active-class="active" class="dropdown">
                 <a>Individual Products <i class="fa fa-angle-down"></i></a>
@@ -96,23 +103,12 @@
                 </ul>
               </nuxt-link>
 
-              <nuxt-link to="/products/business" tag="li" active-class="active" class="dropdown">
-                <a>Business Products <i class="fa fa-angle-down"></i></a>
-                <ul class="dropdown-menu flat" role="menu">
-                  <nuxt-link to="/products/business/business-insurance" tag="li" active-class="active" exact><a>Business Insurance</a></nuxt-link>
-                  <nuxt-link to="/products/business/workers-comp" tag="li" active-class="active" exact><a>Workers' Compensation</a></nuxt-link>
-                  <nuxt-link to="/products/business/error-omission" tag="li" active-class="active" exact><a>Errors and Omissions</a></nuxt-link>
-                </ul>
-              </nuxt-link>
+              <nuxt-link to="/about" tag="li" active-class="active" exact><a>About Us</a></nuxt-link>
             </ul>
             <!-- Nav Links Ends -->
             <!-- Call Back Starts -->
             <h6 class="navbar-right hidden-md hidden-sm hidden-xs text-uppercase animation">
-              <!-- Calendly link widget begin -->
-              <link href="https://calendly.com/assets/external/widget.css" rel="stylesheet">
-              <script src="https://calendly.com/assets/external/widget.js" type="text/javascript"></script>
-              <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/dpins/15min');return false;">Get A Call Back</a>
-              <!-- Calendly link widget end -->
+              <nuxt-link to="request-quote">Request a Quote</nuxt-link>
             </h6>
             <!-- Call Back Ends -->
             <!--&lt;!&ndash; Search Form Starts &ndash;&gt;

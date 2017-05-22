@@ -10,7 +10,7 @@
             <h2 class="text-medium">Independent Insurance Agency</h2>
             <h5 class="text-light">Always Independent</h5>
             <h5 class="text-light">Work for you, Not for Insurance Companies </h5>
-            <a href="#" class="btn btn-secondary animation text-medium">More Services</a>
+            <nuxt-link to="request-quote" class="btn btn-secondary animation text-medium">Free Quote</nuxt-link>
           </div>
         </div>
         <!-- Slide #1 Ends -->
@@ -286,6 +286,9 @@ export default {
 </script>
 
 <style lang="scss" rel="stylesheet/scss">
+  #main-slider .carousel-caption {
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  }
   .hero-image {
     background-image: url('http://media.istockphoto.com/photos/portrait-of-couple-running-coffee-shop-behind-counter-picture-id508856762?s=2048x2048');
     background-size: cover;
