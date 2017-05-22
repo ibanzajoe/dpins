@@ -90,18 +90,22 @@
               <nuxt-link to="/products/individual" tag="li" active-class="active" class="dropdown">
                 <a>Individual Products <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <nuxt-link to="/products/individual/health-insurance" tag="li" active-class="active" exact><a>Health Insurance</a></nuxt-link>
-                  <nuxt-link to="/products/individual/life-insurance" tag="li" active-class="active" exact><a>Life Insurance</a></nuxt-link>
-                  <nuxt-link to="/products/individual/auto-insurance" tag="li" active-class="active" exact><a>Auto Insurance</a></nuxt-link>
+                  <nuxt-link to="/products/individual/health_insurance" tag="li" active-class="active" exact><a>Health Insurance</a></nuxt-link>
+                  <nuxt-link to="/products/individual/life_insurance" tag="li" active-class="active" exact><a>Life Insurance</a></nuxt-link>
+                  <nuxt-link to="/products/individual/auto_insurance" tag="li" active-class="active" exact><a>Auto Insurance</a></nuxt-link>
+                  <nuxt-link to="/products/individual/homeowner_policy" tag="li" active-class="active" exact><a>Homeowner Policy</a></nuxt-link>
                 </ul>
               </nuxt-link>
 
               <nuxt-link to="/products/business" tag="li" active-class="active" class="dropdown">
                 <a>Business Products <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <nuxt-link to="/products/business/group-health-insurance" tag="li" active-class="active" exact><a>Group Health Insurance</a></nuxt-link>
-                  <nuxt-link to="/products/business/workers-comp" tag="li" active-class="active" exact><a>Workers' Compensation</a></nuxt-link>
-                  <nuxt-link to="/products/business/error-omission" tag="li" active-class="active" exact><a>Errors and Omissions</a></nuxt-link>
+                  <nuxt-link to="/products/business/business_insurance" tag="li" active-class="active" exact><a>Business Insurance</a></nuxt-link>
+                  <nuxt-link to="/products/business/workers_comp" tag="li" active-class="active" exact><a>Workers' Compensation</a></nuxt-link>
+                  <nuxt-link to="/products/business/error_omission" tag="li" actives-class="active" exact><a>Errors and Omissions</a></nuxt-link>
+                  <nuxt-link to="/products/business/director_officer" tag="li" active-class="active" exact><a>Director and Officer</a></nuxt-link>
+                  <nuxt-link to="/products/business/builders_risk" tag="li" active-class="active" exact><a>Builders Risk Coverage</a></nuxt-link>
+                  <nuxt-link to="/products/business/employment_practice" tag="li" active-class="active" exact><a>Employment Practice Liability</a></nuxt-link>
                 </ul>
               </nuxt-link>
             </ul>
