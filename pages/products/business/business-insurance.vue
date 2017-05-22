@@ -23,7 +23,7 @@
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
-          <img src="/images/about/about-img3.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
+          <img src="http://media.istockphoto.com/photos/acceptable-level-of-risk-picture-id526555752" alt="About Image" class="img-responsive img-center-xs">
           <p class="hidden visible-xs"><br></p>
         </div>
         <!-- Image Media Ends -->
@@ -79,7 +79,7 @@
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
           <p class="hidden visible-xs"><br></p>
-          <img src="/images/about/about-img4.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
+          <img src="http://media.istockphoto.com/photos/insurance-picture-id481429165" alt="About Image" class="img-responsive img-center-xs">
         </div>
         <!-- Image Media Ends -->
       </div>
