@@ -23,7 +23,7 @@
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
-          <img src="/images/about/about-img3.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
+          <img src="https://static.pexels.com/photos/42273/doctor-medical-medicine-health-42273.jpeg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
           <p class="hidden visible-xs"><br></p>
         </div>
         <!-- Image Media Ends -->
@@ -59,13 +59,13 @@
             Medical conditions can be costly and the cost of medicine has been consistently increasing.  Health insurance
             plans protects your financial well being by mitigating your risks from the high medical care costs that can come about suddenly.
           </p>
-          
+
           <p>
             In most cases, many individuals receive their health insurance from their employers.  The employer helps
             pay for that insurance and the plans have contracts with health care providers and medical facilities to provide care
             at reduced costs.
           </p>
-          
+
           <p>
             You can also purchase health insurances on your own.  For most people, it will cost more than employer-based insurance plans,
             but individuals who meet certain requirements can qualify for government funded health insurance such as Medicare and Medicaid.
@@ -75,17 +75,17 @@
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
           <p class="hidden visible-xs"><br></p>
-          <img src="/images/about/about-img4.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
+          <img src="https://static.pexels.com/photos/47327/medications-money-cure-tablets-47327.jpeg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
         </div>
         <!-- Image Media Ends -->
       </div>
-  
+
       <div class="spacer-medium"></div>
-  
+
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
-          <img src="/images/about/about-img3.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
+          <img src="https://static.pexels.com/photos/236723/pexels-photo-236723.jpeg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
           <p class="hidden visible-xs"><br></p>
         </div>
         <!-- Image Media Ends -->
@@ -114,7 +114,7 @@
       <div class="spacer"></div>
       <!-- Spacer Ends -->
       <!-- What We Offer Starts -->
-      
+
       <!-- What We Offer Ends -->
       <!-- Spacer Starts -->
       <div class="spacer-medium"></div>

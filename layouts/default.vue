@@ -99,7 +99,7 @@
               <nuxt-link to="/products/business" tag="li" active-class="active" class="dropdown">
                 <a>Business Products <i class="fa fa-angle-down"></i></a>
                 <ul class="dropdown-menu flat" role="menu">
-                  <nuxt-link to="/products/business/group-health-insurance" tag="li" active-class="active" exact><a>Group Health Insurance</a></nuxt-link>
+                  <nuxt-link to="/products/business/business-insurance" tag="li" active-class="active" exact><a>Business Insurance</a></nuxt-link>
                   <nuxt-link to="/products/business/workers-comp" tag="li" active-class="active" exact><a>Workers' Compensation</a></nuxt-link>
                   <nuxt-link to="/products/business/error-omission" tag="li" active-class="active" exact><a>Errors and Omissions</a></nuxt-link>
                 </ul>
@@ -108,10 +108,14 @@
             <!-- Nav Links Ends -->
             <!-- Call Back Starts -->
             <h6 class="navbar-right hidden-md hidden-sm hidden-xs text-uppercase animation">
-              <a href="#">Get A Call Back</a>
+              <!-- Calendly link widget begin -->
+              <link href="https://calendly.com/assets/external/widget.css" rel="stylesheet">
+              <script src="https://calendly.com/assets/external/widget.js" type="text/javascript"></script>
+              <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/dpins/15min');return false;">Get A Call Back</a>
+              <!-- Calendly link widget end -->
             </h6>
             <!-- Call Back Ends -->
-            <!-- Search Form Starts -->
+            <!--&lt;!&ndash; Search Form Starts &ndash;&gt;
             <form class="navbar-form navbar-right hidden-sm hidden-xs" role="search">
               <div class="input-group">
                 <input type="text" class="form-control" placeholder="Search">
@@ -121,7 +125,7 @@
                                 </button>
                             </span>
               </div>
-            </form>
+            </form>-->
             <!-- Search Form Ends -->
           </div>
           <!-- Navbar Cat collapse Ends -->
