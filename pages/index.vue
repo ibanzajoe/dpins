@@ -5,8 +5,7 @@
       <!-- Wrapper For Slides Starts -->
       <div class="carousel-inner">
         <!-- Slide #1 Starts -->
-        <div class="item active" >
-          <img src="images/user/insurance-hero.jpg" alt="Slide 1" class="img-responsive img-center">
+        <div class="item active hero-image" >
           <div class="carousel-caption text-center text-lite-color hidden-xs">
             <h2 class="text-medium">Independent Insurance Agency</h2>
             <h5 class="text-light">Always Independent</h5>
@@ -122,7 +121,7 @@
         <!-- Nested Row Starts -->
         <div class="row">
           <!-- Starts -->
-          <div class="col-md-6 col-xs-12">
+          <div class="col-md-6 col-xs-12 our-services">
             <!-- Heading Starts -->
             <h4 class="section-heading-1 text-lite-color text-center-xs no-margin-top">Our <span>Services</span></h4>
             <!-- Heading Ends -->
@@ -140,7 +139,7 @@
               <li class="col-sm-6 col-xs-12">Competitive Prices</li>
               <li class="col-sm-6 col-xs-12">Dedicated Team</li>
               <li class="col-sm-6 col-xs-12">Quick and Easy Access</li>
-              
+
             </ul>
             <!-- List Ends -->
           </div>
@@ -286,6 +285,19 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" rel="stylesheet/scss">
+  .hero-image {
+    background-image: url('http://media.istockphoto.com/photos/portrait-of-couple-running-coffee-shop-behind-counter-picture-id508856762?s=2048x2048');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+  }
 
+  .section-services {
+    background-image: url('http://media.istockphoto.com/photos/hispanic-manager-in-warehouse-picture-id586700192?s=2048x2048');
+
+    .our-services {
+      background-color: rgba(0,0,0,0.3);
+    }
+  }
 </style>
