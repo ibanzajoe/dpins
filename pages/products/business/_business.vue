@@ -175,7 +175,7 @@
                   "Workers compensation insurance provides coverage of medical care and other compensation of benefits to employees who are insured in the course of employment in exchange for mandatory relinquishment of the employee's right to sue their employer for tort of negligence.",
                   'There is a tradeoff between the assured, limited coverage and lack of recourse outside the worker compensation system called "the compensation bargain". While schemes differ between jurisdictions, provisions can be made for weekly payments in place of wages, compensation for economic loss, reimbursement and payment of medical expenses, and benefits payable to the dependents of workers killed during employment.'
                 ],
-                side_image: "/images/about/about-img3.jpg"
+                side_image: "https://pixabay.com/get/e03cb50f28f21c22d9584518a3494292e676e7d404b0154890f5c77ea2eab1/accident-994006_1920.jpg"
               },
               {
                 heading: "How does it work?",
@@ -183,7 +183,7 @@
                 subheading: [
                   "California's workers' compensation act provides an example of a comprehensive state compensation program. It is applicable to most employers. The statue limits the liability of the employer and fellow employees. California also requires employers to obtain insurance to cover potential workers' compensation claims, and sets up a fund claims that employers have illegally failed to insure against."
                 ],
-                side_image: "/images/about/about-img4.jpg"
+                side_image: "https://static.pexels.com/photos/9660/business-money-pink-coins.jpg"
               }
             ]
           },
