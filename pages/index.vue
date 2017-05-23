@@ -6,7 +6,7 @@
       <div class="carousel-inner">
         <!-- Slide #1 Starts -->
         <div class="item active hero-image" >
-          <div class="carousel-caption text-center text-lite-color hidden-xs">
+          <div class="carousel-caption text-center text-lite-color">
             <h2 class="text-medium">Independent Insurance Agency</h2>
             <h5 class="text-light">Always Independent</h5>
             <h5 class="text-light">Work for you, Not for Insurance Companies </h5>
@@ -292,8 +292,8 @@ export default {
   .hero-image {
     background-image: url('http://media.istockphoto.com/photos/portrait-of-couple-running-coffee-shop-behind-counter-picture-id508856762?s=2048x2048');
     background-size: cover;
-    background-position: center;
-    height: 500px;
+    background-position: center 40%;
+    height: 650px;
   }
 
   .section-services {
