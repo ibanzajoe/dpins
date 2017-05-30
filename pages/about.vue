@@ -75,68 +75,7 @@
         <!-- Image Media Ends -->
       </div>
       <!-- Nested Row Ends -->
-      <!-- Spacer Starts -->
-      <div class="spacer"></div>
-      <!-- Spacer Ends -->
-      <!-- What We Offer Starts -->
-      <h4 class="main-heading-1 text-spl-color text-uppercase text-center-xs">What We Offer</h4>
-      <ul class="list-unstyled row list-style-1">
-        <!-- Offer List #1 Starts -->
-        <li class="col-md-4 col-sm-6 col-xs-12 clearfix">
-          <i class="fa fa-cogs pull-left circle"></i>
-          <h6 class="text-bold">Find Nearest Branch</h6>
-          <p class="text-grey-color">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry...
-          </p>
-        </li>
-        <!-- Offer List #1 Ends -->
-        <!-- Offer List #2 Starts -->
-        <li class="col-md-4 col-sm-6 col-xs-12 clearfix">
-          <i class="fa fa-thumbs-up pull-left circle"></i>
-          <h6 class="text-bold">Join Our Company</h6>
-          <p class="text-grey-color">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry...
-          </p>
-        </li>
-        <!-- Offer List #2 Ends -->
-        <!-- Offer List #3 Starts -->
-        <li class="col-md-4 col-sm-6 col-xs-12 clearfix">
-          <i class="fa fa-bullhorn pull-left circle"></i>
-          <h6 class="text-bold">365 Days Support</h6>
-          <p class="text-grey-color">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry...
-          </p>
-        </li>
-        <!-- Offer List #3 Ends -->
-        <!-- Offer List #4 Starts -->
-        <li class="col-md-4 col-sm-6 col-xs-12 clearfix">
-          <i class="fa fa-puzzle-piece pull-left circle"></i>
-          <h6 class="text-bold">Latest Technologies</h6>
-          <p class="text-grey-color">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry...
-          </p>
-        </li>
-        <!-- Offer List #4 Ends -->
-        <!-- Offer List #5 Starts -->
-        <li class="col-md-4 col-sm-6 col-xs-12 clearfix">
-          <i class="fa fa-book pull-left circle"></i>
-          <h6 class="text-bold">Well Document Presents</h6>
-          <p class="text-grey-color">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry...
-          </p>
-        </li>
-        <!-- Offer List #5 Ends -->
-        <!-- Offer List #6 Starts -->
-        <li class="col-md-4 col-sm-6 col-xs-12 clearfix">
-          <i class="fa fa-users pull-left circle"></i>
-          <h6 class="text-bold">Team Work</h6>
-          <p class="text-grey-color">
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry...
-          </p>
-        </li>
-        <!-- Offer List #6 Ends -->
-      </ul>
-      <!-- What We Offer Ends -->
+
       <!-- Spacer Starts -->
       <div class="spacer-medium"></div>
       <!-- Spacer Ends -->

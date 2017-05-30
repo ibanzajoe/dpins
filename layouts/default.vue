@@ -1,22 +1,5 @@
 <template>
   <div>
-    <!-- Top Bar Starts -->
-    <div class="top-bar dark">
-      <!-- Nested Container Starts -->
-      <div class="container clearfix text-center-xs">
-        <p class="pull-left-lg pull-left-md pull-left-sm">
-          We welcome you to DP Insurance Agency website, we are a no hassel insurance broker!
-        </p>
-        <p class="pull-right-lg pull-right-md pull-right-sm text-right-lg text-right-md text-right-sm">
-          <i class="fa fa-clock-o"></i>&nbsp;
-          Monday - Friday : 8:30 AM to 5:30 PM
-          <br>
-          Saturday: 10:00 AM to 2:00 PM
-        </p>
-      </div>
-      <!-- Nested Container Ends -->
-    </div>
-    <!-- Top Bar Ends -->
     <!-- Header Starts -->
     <header class="main-header one">
       <!-- Nested Container Starts -->

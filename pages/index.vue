@@ -288,6 +288,9 @@ export default {
 <style lang="scss" rel="stylesheet/scss">
   #main-slider .carousel-caption {
     text-shadow: 0 1px 2px rgba(0,0,0,.6);
+
+    bottom: inherit;
+    background-color: rgba(0,0,0,.10);
   }
   .hero-image {
     background-image: url('http://media.istockphoto.com/photos/portrait-of-couple-running-coffee-shop-behind-counter-picture-id508856762?s=2048x2048');

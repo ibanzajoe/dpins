@@ -5,7 +5,7 @@
 <script>
   export default {
     fetch ({redirect}) {
-      redirect ('/products/business/business-insurance')
+      redirect ('/products/business/business_insurance')
     }
   }
 </script>

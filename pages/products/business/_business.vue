@@ -37,7 +37,7 @@
               <p class="lead">
                 <strong>{{content.heading}}</strong>
               </p>
-              
+
               <p>
                 {{content.pre_subheading}}
               </p>
@@ -55,18 +55,18 @@
                   </template>
                 </ul>
               </template>
-            
+
             </div>
             <!-- Content Ends -->
           </div>
-          
+
           <!-- Nested Row Ends -->
           <!-- Spacer Starts -->
           <div class="spacer-medium"></div>
           <!-- Spacer Ends -->
           <!-- Nested Row Starts -->
         </template>
-        
+
         <template v-else>
           <div class="row text-center-xs">
             <!-- Content Starts -->
@@ -77,7 +77,7 @@
               <p class="lead">
                 <strong>{{content.heading}}</strong>
               </p>
-              
+
               <p>
                 {{content.pre_subheading}}
               </p>
@@ -95,7 +95,7 @@
                   </template>
                 </ul>
               </template>
-            
+
             </div>
             <!-- Content Ends -->
             <!-- Image Media Starts -->
@@ -105,34 +105,34 @@
             </div>
             <!-- Image Media Ends -->
           </div>
-          
+
           <!-- Nested Row Ends -->
           <!-- Spacer Starts -->
           <div class="spacer-medium"></div>
           <!-- Spacer Ends -->
           <!-- Nested Row Starts -->
         </template>
-        
-        
-        
-        
+
+
+
+
         <div class="spacer-medium"></div>
       </template>
-    
+
     </div>
   </div>
 </template>
 
 <script type="text/ecmascript-6" >
-  
+
   module.exports = {
-    
+
     computed: {
       business () {
         return this.businesses[this.$route.params.business]
       }
     },
-    
+
     data () {
       return {
         businesses: {
@@ -175,7 +175,7 @@
                   "Workers compensation insurance provides coverage of medical care and other compensation of benefits to employees who are insured in the course of employment in exchange for mandatory relinquishment of the employee's right to sue their employer for tort of negligence.",
                   'There is a tradeoff between the assured, limited coverage and lack of recourse outside the worker compensation system called "the compensation bargain". While schemes differ between jurisdictions, provisions can be made for weekly payments in place of wages, compensation for economic loss, reimbursement and payment of medical expenses, and benefits payable to the dependents of workers killed during employment.'
                 ],
-                side_image: "https://pixabay.com/get/e03cb50f28f21c22d9584518a3494292e676e7d404b0154890f5c77ea2eab1/accident-994006_1920.jpg"
+                side_image: "/img/accident-994005_640.jpg"
               },
               {
                 heading: "How does it work?",
