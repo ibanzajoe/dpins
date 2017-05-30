@@ -242,7 +242,7 @@
                   "",
                   ""
                 ],
-                side_image: "http://media.istockphoto.com/photos/insurance-picture-id481429165"
+                side_image: "/images/stock/word_jumble.jpg"
               },
               {
                 heading: "Who is covered by D&O insurance?",

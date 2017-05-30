@@ -265,8 +265,7 @@
                 pre_subheading: '',
                 subheading: [
                   "Damage caused by most disasters is covered but there are exceptions. The most significant exceptions are damages caused by floods, earthquakes, and poor maintenance. For earthquakes and floods, you must buy separate policies to insure against them. Maintenance-related problems are homeowners' responsibility."
-                ],
-                side_image: ''
+                ]
               },
               {
                 heading: "What is in a standard homeowners insurance policy?",
@@ -276,8 +275,7 @@
                   "Coverage for your personal belongings",
                   "Liability protection",
                   "Additional living expenses in the event you are temporarily unable to live in your home"
-                ],
-                side_image: ''
+                ]
               },
 
               {
