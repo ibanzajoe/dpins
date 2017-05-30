@@ -142,7 +142,7 @@
                 "insurance. Having auto insurance is more than just protecting your vehicle, " +
                 "it is having a peace of mind from driver's worst nightmares like a bad accident, " +
                 "car-jacking, as well as possible bodily injuries and fatalities."],
-                side_image: 'https://static.pexels.com/photos/163016/crash-test-collision-60-km-h-distraction-163016.jpeg'
+                side_image: '/images/stock/car-crash.jpeg'
               },
               {
                 heading: "What is an auto insurance",
@@ -150,7 +150,7 @@
                 subheading: ["An auto insurance is a contract between you and your insurance company in which " +
                 "an agreement is established where you, the client, pays the insurance premium, and in exchange " +
                 "the insurance company agrees to reimburse you for any losses covered by the insurance policy."],
-                side_image: 'https://static.pexels.com/photos/9660/business-money-pink-coins.jpg'
+                side_image: '/images/stock/piggy_bank.jpg'
               },
               {
                 heading: 'Auto Insurance coverage includes:',
@@ -163,7 +163,7 @@
                   "Comprehensive Coverage will pay you for the loss due to damage by fire, explosion, vandalism, flood, contact with animals, and theft.",
                   "Uninsured and Underinsured Motorist Coverage reimburses you in case you are hit by an uninsured or when you are involved in a hit-and-run. It is also very valuable in case where a pedestrian is hit during an accident."
                 ],
-                side_image: 'https://pixabay.com/get/eb35b90d2ef7013ecd1f4001e2494793e26ae3d110b4144793f1c37d/health-2082630.jpg'
+                side_image: 'https://pixabay.com/get/eb35b90d2ef7013ecd1f4001e2494793e26ae3d110b4144793f1c37d/health-2082630.jpg' //link no longer works
               }
             ]
           },
@@ -178,7 +178,7 @@
                   "Health insurance is an insurance plan where the insurer pays for the medical costs of the person being covered. When the person covered under the health insurance plan becomes sick, the insurance company (insurer) pays the medical costs on behalf of the individual who is covered.",
                   "The insurer may be a private organization or a government entity. Market based health care systems, like the one in the United States, rely primarily on private health insurance companies."
                 ],
-                side_image: 'https://static.pexels.com/photos/42273/doctor-medical-medicine-health-42273.jpeg'
+                side_image: '/images/stock/medical.jpeg'
               },
               {
                 heading: "Why do we need health insurance?",
@@ -188,7 +188,7 @@
                   "In most cases, many individuals receive their health insurance from their employers. The employer helps pay for that insurance and the plans have contracts with health care providers and medical facilities to provide care at reduced costs.",
                   "You can also purchase health insurances on your own. For most people, it will cost more than employer-based insurance plans, but individuals who meet certain requirements can qualify for government funded health insurance such as Medicare and Medicaid."
                 ],
-                side_image: 'https://static.pexels.com/photos/47327/medications-money-cure-tablets-47327.jpeg'
+                side_image: '/images/stock/money_pills.jpeg'
               },
               {
                 heading: "What factors are affecting insurance price?",
@@ -204,7 +204,7 @@
                   "insufficient exercise, unhealthy food choices, living in impoverished or rural areas " +
                   "where access is more difficult, excessive alcohol use, smoking, drug use, and obesity"
                 ],
-                side_image: 'https://static.pexels.com/photos/236723/pexels-photo-236723.jpeg'
+                side_image: '/images/stock/watermelon.jpeg'
               }
             ]
           },
@@ -219,7 +219,7 @@
                   "For thousands of Americans, Life Insurance is the ideal solution for ensuring financial protection for their family and their business. Term life insurance provides affordable, guaranteed, death benefits and coverage.",
                   "For many, this means protecting their families from mortgage burden, debt collectors, and the costly funeral costs in case of premature death. For others, it provides the coverage needed to ensure the continuity of their businesses."
                 ],
-                side_image: 'https://static.pexels.com/photos/34014/pexels-photo.jpg'
+                side_image: '/images/stock/walk_to_light.jpg'
               },
               {
                 heading: "About ROPTerm",
@@ -229,7 +229,7 @@
                   "Guaranteed level-premium coverage for 15, 20, or 30 years with face amount of $100,000 and up.",
                   "Return of cumulative premiums paid at the end of the level-premium period."
                 ],
-                side_image: 'https://static.pexels.com/photos/9660/business-money-pink-coins.jpg'
+                side_image: '/images/stock/piggy_bank.jpg'
               },
               {
                 heading: "About Level Term",
@@ -243,7 +243,7 @@
                   "Convertible during the earlier of the level term period or age 75",
                   "Disability income rider is available on policies with face amount above $250,000 issued standard or better. The rider has a 90-day elimination period and a 2-year benefit period"
                 ],
-                side_image: 'https://static.pexels.com/photos/171198/pexels-photo-171198.jpeg'
+                side_image: '/images/stock/gears.jpeg'
               }
             ]
           },
@@ -258,14 +258,15 @@
                   "Homeowners insurance provides financial protection against disasters. A standard policy not only insures the home and the building, but your other valuable possessions as well.",
                   "Homeowners insurance is a packaged policy meaning that it covers both damages to your property as well as covers your liabilities or legal responsibilities for any injuries or property damage you or members of your family caused to other people. This includes damages caused by household pets."
                 ],
-                side_image: 'https://ipfs.io/ipfs/QmTqdSYA67RCJz8zB6qR4K1MAzGYQFVSqKa4fDGyPFcxaK'
+                side_image: '/images/stock/smallhouse.png'
               },
               {
                 heading: "What is covered by a homeowners insurance?",
                 pre_subheading: '',
                 subheading: [
                   "Damage caused by most disasters is covered but there are exceptions. The most significant exceptions are damages caused by floods, earthquakes, and poor maintenance. For earthquakes and floods, you must buy separate policies to insure against them. Maintenance-related problems are homeowners' responsibility."
-                ]
+                ],
+                side_image: ''
               },
               {
                 heading: "What is in a standard homeowners insurance policy?",
@@ -275,7 +276,8 @@
                   "Coverage for your personal belongings",
                   "Liability protection",
                   "Additional living expenses in the event you are temporarily unable to live in your home"
-                ]
+                ],
+                side_image: ''
               },
               
               {
@@ -285,7 +287,7 @@
                   "This part of your policy pays to repair or rebuild your home if it is damaged or destroyed by fire, hurricane, hail, lightning, or other disaster listed in your policy. It will not pay for damages caused by a flood, earthquake, or routine wear and tear. When purchasing coverage for the structure of your home, it is important to buy enough to rebuild your home.",
                   "Most standard policies also cover structures that are detached from your home such as a garage, tool shed, or gazebo. Generally, these structures are covered for about 10% of the amount of insurance you have on the structure of your home. If you need more coverage, talk to your insurance agent about purchasing more insurance."
                 ],
-                side_image: 'https://static.pexels.com/photos/164466/pexels-photo-164466.jpeg'
+                side_image: '/images/stock/simple-home.jpeg'
               },
               {
                 heading: "2. Your personal belonging",
@@ -300,7 +302,7 @@
                   "disappearance,'  meaning coverage if you simply lose that item. There are no " +
                   "deductible."
                 ],
-                side_image: 'https://static.pexels.com/photos/57750/pexels-photo-57750.jpeg'
+                side_image: '/images/stock/fancy-stuff.jpeg'
               },
               {
                 heading: "3. Liability protection",
@@ -309,7 +311,7 @@
                   "Liability covers you against lawsuits for bodily injury or property damage that you or family members cause to other people. It also pays for damage caused by your pets. So, if your son, daughter, or dog accidently ruins your neighbor's expensive rug, you are covered. However, if they destroy your rug, you are not covered.",
                   "Your policy also provides no-fault medical coverage. In the event a friend or neighbor is injured in your home, he or she can simply submit medical bills to your insurance company. This way, expenses are paid without a liability claim being filed against you. You can generally get $1,000 to $5,000 worth of this coverage. It does not, however, pay the medical bills for yoru family or your pet."
                 ],
-                side_image: 'https://static.pexels.com/photos/6256/water-kitchen-black-design.jpg'
+                side_image: '/images/stock/faucet.jpg'
               },
               {
                 heading: "4. Additional living expenses",
@@ -319,7 +321,7 @@
                   "If you rent out part of your house, this coverage also reimburses you for the rent that you would have collected from your tenant if your home had not been destroyed."
                   
                 ],
-                side_image: 'https://static.pexels.com/photos/9660/business-money-pink-coins.jpg'
+                side_image: '/images/stock/piggy_bank.jpg'
               }
             ]
           }

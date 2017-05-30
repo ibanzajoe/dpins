@@ -147,7 +147,7 @@
                   "When running a business, you HAVE to consider your liabilities. Even if you don't have a big, prosperous, business, liability insurance is essential and can be a crucial part of protecting your business and financial health.",
                   "Liability insurance covers employees and customer injuries that may occur at your place of business. Even in cases where someone you are not associated with causes someone else injury at your place of business, your business may still be held liable for damages. Liability insurance can cover you from such claims of personal injury as well as any other claims involving any type of abuse and sexual harassment."
                 ],
-                side_image: "http://media.istockphoto.com/photos/acceptable-level-of-risk-picture-id526555752"
+                side_image: "/images/stock/business.jpg"
               },
               {
                 heading: "What are the different types of business insurances (commonly used)?",
@@ -160,7 +160,7 @@
                   "Owners, Landlords, and Tenants Liability Insurance Policy (OL&T)",
                   "Physicians, Surgeons, and Dentists Professional Liability"
                 ],
-                side_image: "http://media.istockphoto.com/photos/insurance-picture-id481429165"
+                side_image: "/images/stock/word_jumble.jpg"
               }
             ]
           },
@@ -183,7 +183,7 @@
                 subheading: [
                   "California's workers' compensation act provides an example of a comprehensive state compensation program. It is applicable to most employers. The statue limits the liability of the employer and fellow employees. California also requires employers to obtain insurance to cover potential workers' compensation claims, and sets up a fund claims that employers have illegally failed to insure against."
                 ],
-                side_image: "https://static.pexels.com/photos/9660/business-money-pink-coins.jpg"
+                side_image: "/images/stock/piggy_bank.jpg"
               }
             ]
           },

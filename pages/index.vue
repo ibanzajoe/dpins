@@ -44,7 +44,7 @@
             <div class="intro-col">
               <i class="fa fa-bar-chart-o circle"></i>
               <h5 class="text-bold">Business Insurance</h5>
-              <p>
+              <p class="p_context">
                 Running a successful business comes with liabilities you have to consider.  Protect your business from
                 expensive liability claims.
               </p>
@@ -56,7 +56,7 @@
             <div class="intro-col">
               <i class="fa fa-group circle"></i>
               <h5 class="text-bold">Homeowner Policy</h5>
-              <p>
+              <p class="p_context">
                 Homeowners' insurance provides coverage for unforeseeable disasters.  A standard policy insures the house as well as your valuables.
               </p>
             </div>
@@ -67,7 +67,7 @@
             <div class="intro-col">
               <i class="fa fa-money circle"></i>
               <h5 class="text-bold">Auto Insurance</h5>
-              <p>
+              <p class="p_context">
                 Most states in the US requires that you must be insured to operate a vehicle.  For most drivers, an auto insurance is
                 a must.  Drive with confidence.  Get insured!
               </p>
@@ -79,7 +79,7 @@
             <div class="intro-col">
               <i class="fa fa-bar-chart-o circle"></i>
               <h5 class="text-bold">Life Insurance</h5>
-              <p>
+              <p class="p_context">
                 Life insurance is about protecting your loved ones and ensuring they will be taken care of.
               </p>
             </div>
@@ -90,7 +90,7 @@
             <div class="intro-col">
               <i class="fa fa-group circle"></i>
               <h5 class="text-bold">Health Insurance</h5>
-              <p>
+              <p class="p_context">
                 Health care is expensive and the prices are expected to rise.  Don't get caught off guard by a huge medical bill.
               </p>
             </div>
@@ -101,7 +101,7 @@
             <div class="intro-col">
               <i class="fa fa-money circle"></i>
               <h5 class="text-bold">Travel Insurance</h5>
-              <p>
+              <p class="p_context">
                 Lost luggage or a travel accident can be detrimental to your experience.  Have some peace of mind
                 during your vacation outings and get insured.
               </p>
@@ -293,17 +293,21 @@ export default {
     background-color: rgba(0,0,0,.10);
   }
   .hero-image {
-    background-image: url('http://media.istockphoto.com/photos/portrait-of-couple-running-coffee-shop-behind-counter-picture-id508856762?s=2048x2048');
+    background-image: url('/images/stock/interracial.jpg');
     background-size: cover;
     background-position: center 40%;
     height: 650px;
   }
 
   .section-services {
-    background-image: url('http://media.istockphoto.com/photos/hispanic-manager-in-warehouse-picture-id586700192?s=2048x2048');
+    background-image: url('/images/stock/intense_look.jpg');
 
     .our-services {
       background-color: rgba(0,0,0,0.3);
     }
+  }
+  
+  .p_context {
+    min-height: 100px;
   }
 </style>
