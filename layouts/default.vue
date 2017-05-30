@@ -94,7 +94,7 @@
             </ul>
             <!-- Nav Links Ends -->
             <!-- Call Back Starts -->
-            <h6 class="navbar-right hidden-md hidden-sm hidden-xs text-uppercase animation">
+            <h6 class="navbar-right hidden-md hidden-sm hidden-xs text-uppercase animation button_border">
               <nuxt-link to="request-quote">Request a Quote</nuxt-link>
             </h6>
             <!-- Call Back Ends -->
@@ -236,9 +236,9 @@
       <!-- Nested Container Starts -->
       <div class="container text-center text-lite-color">
         <ul class="list-unstyled list-inline">
-          <li><a href="#">| Terms of Use |</a></li>
-          <li><a href="#">| Career |</a></li>
-          <li><a href="#">| Privacy Policy |</a></li>
+          <li><nuxt-link to="/terms">| Terms of Use |</nuxt-link></li>
+          <li><nuxt-link to="/career">| Career |</nuxt-link></li>
+          <li><nuxt-link to="/privacy">| Privacy Policy |</nuxt-link></li>
           <!--<li><a href="#"><i class="fa fa-instagram"></i></a></li>
           <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>-->
         </ul>
@@ -309,5 +309,9 @@ html
 
   .container {
     min-height: 100%;
+  }
+  
+  .button_border {
+    border-bottom: 1px solid #3e3e3e;
   }
 </style>

@@ -22,7 +22,7 @@
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
-          <img src="http://media.istockphoto.com/photos/insurance-picture-id481429165" alt="About Image" class="img-responsive img-style-1 img-center-xs">
+          <img src="/images/stock/word_jumble.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
           <p class="hidden visible-xs"><br></p>
         </div>
         <!-- Image Media Ends -->
@@ -70,7 +70,7 @@
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
           <p class="hidden visible-xs"><br></p>
-          <img src="http://media.istockphoto.com/photos/empowered-to-lead-an-empire-picture-id608628094?s=2048x2048" alt="About Image" class="img-responsive img-style-1 img-center-xs">
+          <img src="/images/stock/businesspeople.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
         </div>
         <!-- Image Media Ends -->
       </div>
