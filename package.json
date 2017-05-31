@@ -5,7 +5,14 @@
   "author": "James Lee <uptownhr@gmail.com>",
   "private": true,
   "dependencies": {
-    "nuxt": "latest"
+    "axios": "^0.16.1",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "nuxt": "latest",
+    "prettyjson": "^1.2.1",
+    "sendgrid": "^5.1.0"
   },
   "scripts": {
     "dev": "nuxt",

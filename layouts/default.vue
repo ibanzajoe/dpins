@@ -181,28 +181,28 @@
               <div class="row">
                 <!-- First Name Starts -->
                 <div class="col-sm-6 col-xs-12">
-                  <input type="text" class="form-control flat animation" placeholder="First Name">
+                  <input type="text" class="form-control flat animation" placeholder="First Name" v-model="schedule.first_name">
                 </div>
                 <!-- First Name Ends -->
                 <!-- Last Name Starts -->
                 <div class="col-sm-6 col-xs-12">
-                  <input type="text" class="form-control flat animation" placeholder="Last Name">
+                  <input type="text" class="form-control flat animation" placeholder="Last Name" v-model="schedule.last_name">
                 </div>
                 <!-- Last Name Ends -->
                 <!-- Email Starts -->
                 <div class="col-sm-6 col-xs-12">
-                  <input type="email" class="form-control flat animation" placeholder="E-mail">
+                  <input type="email" class="form-control flat animation" placeholder="E-mail" v-model="schedule.email">
                 </div>
                 <!-- Email Ends -->
                 <!-- Type of Service Starts -->
                 <div class="col-sm-6 col-xs-12">
-                  <input type="tel" class="form-control flat animation" placeholder="Phone No">
+                  <input type="tel" class="form-control flat animation" placeholder="Phone No" v-model="schedule.phone">
 
                 </div>
                 <!-- Type of Service Ends -->
                 <!-- Phone No Starts -->
                 <div class="col-xs-12">
-                  <select class="form-control flat animation">
+                  <select class="form-control flat animation" v-model="schedule.insurance_type">
                     <option>Type of Services</option>
                     <option value="individual">Individual Insurance</option>
                     <option value="business">Business Insurance</option>
@@ -211,7 +211,7 @@
                 <!-- Phone No Ends -->
                 <!-- Message Starts -->
                 <div class="col-xs-12">
-                  <textarea rows="5" class="form-control flat animation" placeholder="Message"></textarea>
+                  <textarea rows="5" class="form-control flat animation" placeholder="Message" v-model="schedule.message"></textarea>
                 </div>
                 <!-- Message Ends -->
                 <!-- Submit Button Starts -->
@@ -251,10 +251,31 @@
 </template>
 
 <script type="text/ecmascript-6">
+  import axios from 'axios'
+
   export default {
+    data () {
+      return {
+        schedule: {
+          first_name: '',
+          last_name: '',
+          email_name: '',
+          phone: '',
+          insurance_type: '',
+          message: '',
+        }
+      }
+    },
     methods: {
       handle_schedule_form () {
-        swal("Good job!", "You clicked the button!", "success")
+
+        console.log(process.env.API_URL, process.env.EMAIL_TO)
+
+        axios
+          .post(`${process.env.API_URL}/send-email`, {schedule: this.schedule})
+          .then( res => {
+            swal("Good job!", "You clicked the button!", "success")
+          })
       }
     }
   }
@@ -310,7 +331,7 @@ html
   .container {
     min-height: 100%;
   }
-  
+
   .button_border {
     border-bottom: 1px solid #3e3e3e;
   }
