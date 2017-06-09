@@ -322,6 +322,121 @@
                 side_image: '/images/stock/piggy_bank.jpg'
               }
             ]
+          },
+          travel_insurance: {
+            heading: "Credit Insurance",
+            crumbs: "Credit Insurance",
+            content: [
+              {
+                heading: "What is credit insurance?",
+                pre_subheading: '',
+                subheading: [
+                  "Credit insurance is an insurance policy associated with a specific loan or line of credit which pays " +
+                  "back some or all of any money owed should certain things happen to the borrower, such as death, " +
+                  "disability, or unemployment.",
+                  "The costs (called a 'premium') for this are usually charged monthly, depending on the balance owed, " +
+                  "and depending on the usage of the loan or line, could almost double the cost of it (on the opposite " +
+                  "end of the spectrum, clever usage could avoid having to pay almost any premium at all)."
+                ],
+                side_image: '/images/about/about-img3.jpg'
+              },
+              {
+                heading: "",
+                pre_subheading: '',
+                subheading: [
+                  "The sale of credit insurance is controversial because it is almost always cheaper for an individual " +
+                  "to forgo credit insurance, and instead have a term life insurance or disability insurance policy to " +
+                  "cover the credit balance. The reason is that credit insurance is guaranteed issue, no matter if a " +
+                  "person would otherwise be insurable or not. So the rates offered must reflect this, and be worse " +
+                  "than if a healthy or otherwise insurable person were to purchase coverage on their own.",
+                  "In addition, there is an even more controversial practice (called single premium credit insurance), " +
+                  "usually associated with the sub prime lending industry, of charging the premium only one time at the " +
+                  "beginning of the loan. For example, charging $5,000 dollars at the time of a mortgage refinance, " +
+                  "which is usually financed (added to the total loan amount) as part of the loan. This is considered " +
+                  "very bad by critics, since doing this is only cheaper if one is sure that one is going to stay " +
+                  "with the loan forever and not refinance. Critics contend most people do not realize this and lose " +
+                  "money by refinancing once again, thereby losing the benefits of the credit insurance."
+                ],
+                side_image: '/images/about/about-img3.jpg'
+              },
+              {
+                heading: "Do I really need a credit insurance?",
+                pre_subheading: "Before deciding to buy credit insurance from a lender, think about your needs, your " +
+                "options, and the rates you're going to pay. You may decide you don't need credit insurance. " +
+                "If you do, credit insurance can be an expensive form of insurance. For example, it may be less " +
+                "expensive and more practical for you to get life insurance than credit insurance. Before deciding " +
+                "to buy credit insurance, you should ask:",
+                subheading: [
+                  "How much is the premium?",
+                  "Will the premium be financed as part of the loan?  If so, it will increase your laon amount and you'll pay " +
+                  "additional interest, and more for points(if points are on your loan).",
+                  "Can you pay monthly instead of financing the entire premium as part of your loan?",
+                  "How much lower would your monthly loan payment be without the credit insurance?",
+                  "Will the insurance cover the full length of your loan and the full loan amount?",
+                  "What are the limits and exclusions on payment of benefits - that is spelled out exactly what's covered and what's not.",
+                  "Is there a waiting period before the coverage becomes effective?",
+                  "If you have a co-borrower, what coverage does he or she have and at what cost?",
+                  "Can you cancel the insurance? If so, what kind of refund is available?"
+                ],
+                side_image: '/images/about/about-img3.jpg'
+              }
+            ]
+          },
+          earthquake_insurance: {
+            heading: "Earthquake Insurance",
+            crumbs: "Earthquake Insurance",
+            content: [
+              {
+                heading: "What is an earthquake insurance?",
+                pre_subheading: '',
+                subheading: [
+                  "Earthquake insurance is a form of property insurance that pays the policyholder in the event of an " +
+                  "earthquake that causes damage to the property. Most ordinary homeowners' insurance policies do not " +
+                  "cover earthquake damage. Most earthquake insurance policies feature a high deductible, which makes " +
+                  "this type of insurance useful if the entire home is destroyed, but not useful if the home is merely " +
+                  "damaged.",
+                  "Rates depend on location and the probability of an earthquake. Rates may be cheaper for " +
+                  "homes made of wood, which withstand earthquakes better than homes made of brick."
+                ],
+                side_image: '/images/about/about-img3.jpg'
+              },
+              {
+                heading: "Should you buy earthquake insurance?",
+                pre_subheading: '',
+                subheading: [
+                  "There are many circumstances and needs to consider when deciding if earthquake insurance is a good buy. " +
+                  "There isn't one answer for everyone, but for most people their home is their major asset. Protecting " +
+                  "it just makes good sense.",
+                  "An earthquake endorsement generally excludes damages or losses from floods and tidal waves – even " +
+                  "when caused or compounded by an earthquake. However, loss caused by landslide, settlement, mudflow " +
+                  "and the rising, sinking and contracting of earth may be covered if the damage resulted from an earthquake."
+                ],
+                side_image: '/images/about/about-img3.jpg'
+              },
+              {
+                heading: "Earthquake insurance in California",
+                pre_subheading: '',
+                subheading: [
+                  "Earthquake insurance has become a political issue in California, whose residents purchase more " +
+                  "earthquake insurance than residents of any other state in the U.S. After the 1994 Northridge " +
+                  "earthquake, nearly all insurance companies completely stopped writing homeowners' insurance " +
+                  "policies altogether in the state because under California law (The 'mandatory offer law'), " +
+                  "companies offering homeowners' insurance must also offer earthquake insurance.",
+                  "Eventually the legislature created a 'mini policy' that could be sold by any insurer to comply with the " +
+                  "mandatory offer law: only structural damage need be covered, with a 15% deductible. Claims on " +
+                  "personal property loses and 'loss of use' are limited. The legislature also created a quasi-public " +
+                  "(privately funded, public managed) agency called CEA California Earthquake Authority.",
+                  "Membership in the CEA by insurers is voluntary and member companies satisfy the mandatory " +
+                  "offer law by selling the CEA mini policy. Premiums are paid to the insurer, and then pooled " +
+                  "in the CEA to cover claims from homeowners with a CEA policy from member insurers. " +
+                  "The state of California specifically states that it does not back up CEA earthquake " +
+                  "insurance, in the event that claims from a major earthquake were to drain all CEA funds, " +
+                  "nor will it cover claims from non-CEA insurers if they were to become insolvent due to " +
+                  "earthquake losses."
+                ],
+                side_image: '/images/about/about-img3.jpg'
+              }
+            ]
           }
         }
       }
