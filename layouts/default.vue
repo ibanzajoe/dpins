@@ -77,6 +77,10 @@
                   <nuxt-link to="/products/business/director_officer" tag="li" active-class="active" exact><a>Director and Officer</a></nuxt-link>
                   <nuxt-link to="/products/business/builders_risk" tag="li" active-class="active" exact><a>Builders Risk Coverage</a></nuxt-link>
                   <nuxt-link to="/products/business/employment_practice" tag="li" active-class="active" exact><a>Employment Practice Liability</a></nuxt-link>
+                  <nuxt-link to="/products/business/ocean_marine" tag="li" active-class="active" exact><a>Ocean Marine</a></nuxt-link>
+                  <nuxt-link to="/products/business/inland_marine" tag="li" active-class="active" exact><a>Inland Marine</a></nuxt-link>
+                  <nuxt-link to="/products/business/excess_liability" tag="li" active-class="active" exact><a>Excess Liability</a></nuxt-link>
+                  <nuxt-link to="/products/business/foreign_liability" tag="li" active-class="active" exact><a>Foreign Liability</a></nuxt-link>
                 </ul>
               </nuxt-link>
 
@@ -87,6 +91,8 @@
                   <nuxt-link to="/products/individual/life_insurance" tag="li" active-class="active" exact><a>Life Insurance</a></nuxt-link>
                   <nuxt-link to="/products/individual/auto_insurance" tag="li" active-class="active" exact><a>Auto Insurance</a></nuxt-link>
                   <nuxt-link to="/products/individual/homeowner_policy" tag="li" active-class="active" exact><a>Homeowner Policy</a></nuxt-link>
+                  <nuxt-link to="/products/individual/credit_insurance" tag="li" active-class="active" exact><a>Credit Insurance</a></nuxt-link>
+                  <nuxt-link to="/products/individual/earthquake_insurance" tag="li" active-class="active" exact><a>Earthquake Insurance</a></nuxt-link>
                 </ul>
               </nuxt-link>
 

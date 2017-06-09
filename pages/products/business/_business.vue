@@ -438,6 +438,168 @@
                 side_image: "/images/about/about-img4.jpg"
               }
             ]
+          },
+          ocean_marine: {
+            heading: "Ocean Marine",
+            crumbs: "Ocean Marine",
+            content: [
+              {
+                heading: "What is Ocean Marine Insurance?",
+                pre_subheading: "Ocean marine contracts are written to cover four major types of property interest:",
+                subheading: [
+                  "The vessel or hull",
+                  "The cargo",
+                  "The freight revenue to be received by the ship owner",
+                  "Legal liability for negligence of the shipper or the carrier",
+                  
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              },
+              {
+                heading: "What does it protect?",
+                pre_subheading: 'This coverage is designed to protect shipments of goods in foreign trade, particularly exported or imported by an ocean vessel or as air cargo',
+                subheading: [
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              },
+              {
+                heading: "How does it work?",
+                pre_subheading: 'Ocean cargo provides broad coverage that includes damages caused by stranding, sinking, fire,' +
+                ' collision, theft, and severe weather.  It automatically covers goods shipped by air or sea, from the start of the ' +
+                'shipment from the warehouse to the destination point as well as the transits by rail and trucks used between the two ' +
+                'points.  Optional coverages are also available to protect against damage or loss to your property that results from collision, ' +
+                'loading and unloading, and mechanical breakdown.',
+                subheading: [
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              }
+            ]
+          },
+          inland_marine: {
+            heading: "Inland Marine",
+            crumbs: "Inland Marine",
+            content: [
+              {
+                heading: "What is Inland Marine Insurance?",
+                pre_subheading: "This broad type of coverage was developed for shipments that do not involve ocean transport. " +
+                " The insurance covers articles in transit by all forms of land and air transportation as well as bridges, tunnels, and " +
+                "other means of transportation and communication.  Insurance that covers expensive personal items such as fine art and jewelry " +
+                "are included in this category.",
+                subheading: [
+                  
+        
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              },
+              {
+                heading: "What are the coverage?",
+                pre_subheading: 'Inland marine policies become known as "floaters" since the property to which coverage was originally ' +
+                'extended was essentially "floating." The coverage has grown to include property that just involves as element of ' +
+                'transportation. The property that is insured under inland marine coverage is typically one of the following:',
+                subheading: [
+                  "Actually in transit",
+                  "Held by a bailee",
+                  "At a fixed location that is an instrument of transportation",
+                  "A movable type of goods that is often at different locations"
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              },
+              {
+                heading: "",
+                pre_subheading: "The following coverages represent a wide range of the types of coverages typically called " +
+                "'inland marine':",
+                subheading: [
+                  "Account Receivable",
+                  "Bailee Customer's Goods",
+                  "Builders' Risk",
+                  "Communication Towers and Equipment",
+                  "Computer Coverage",
+                  "Contractors Equipment",
+                  "Commercial Floaters",
+                  "Dealers",
+                  "Exhibitions",
+                  "Fine Arts",
+                  "Furriers",
+                  "Installation",
+                  "Jewelers",
+                  "Lease Property",
+                  "Mobile Medical Equipment",
+                  "Motor Truck Cargo",
+                  "Museums",
+                  "Musical Instruments",
+                  "Processing Risks",
+                  "Rigger's Liability",
+                  "Scheduled Property",
+                  "Transportation",
+                  "Trip Transit",
+                  "Valuable Papers",
+                  "Warehouse Legal"
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              }
+            ]
+          },
+          excess_liability: {
+            heading: "Excess Liability",
+            crumbs: "Excess Liability",
+            content: [
+              {
+                heading: "What is excess liability?",
+                pre_subheading: 'Excess Liability Insurances are coverage that is written in excess of a primary insurance',
+                subheading: [
+                  "It is designed to increase the limits of liability, thereby providing catastrophe coverage.  Excess liability coverage does not respond to a loss until the amount " +
+                  "of the loss exceeds (or exhausts) any existing primary policy limits."
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              },
+              {
+                heading: "Example:",
+                pre_subheading: 'A primary $500,000 liability policy is written and excess insurance is written for $2 million excess of the primary.  The primary policy would pay all ' +
+                'losses within $500,000 and the excess policy would pay losses in excess of the primary coverage, up to the excess policy limit of $2 million.  In addition, ' +
+                'excess liability insurance coverage also provides the following:',
+                subheading: [
+                  "Protection for covered claims by others for personal injury or property damage caused by the policyholder, the policyholder's family/friends, " +
+                  "or hazards on the policyholder's property for which they are legally liable",
+                  "Personal liability coverage for occurrences on or off your premises",
+                  "An additional layer of protection above your primary auto policy against auto-related liabilities",
+                  "Protection against non-business related personal injury liabilities such as slander, libel, wrongful eviction, or false arrest",
+                  "Legal defense costs for a covered loss.  Lawyer fees and associated cour costs are covered",
+                  "World wide coverage - no matter where you go, with the only exception being situations involving foreign ownership of dwellings or cars."
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              }
+            ]
+          },
+          foreign_liability: {
+            heading: "Foreign Liability",
+            crumbs: "Foreign Liability",
+            content: [
+              {
+                heading: "What is foreign liability?",
+                pre_subheading: 'Provides coverage for claims made outside the territorial limits of other liability policy.  Coverage is usually needed ' +
+                'only for regular or permanent operations outside of the US, its territories, or Canada.',
+                subheading: [
+                  "This coverage is targeted for clients whose physical place of operation is within the United States, but are engaged in the exporting of " +
+                  "their products or services to other countries.",
+                  "Coverage provides for reimbursement of third party damages sustained including defense expenses associated with claims filed in " +
+                  "other countries.  Coverage is provided using our proprietary form or ISO worldwide coverage forms."
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              },
+              {
+                heading: "What will be covered in the foreign liability?",
+                pre_subheading: '',
+                subheading: [
+                  "Foreign liability covers any liability the institution incurs when its officers, employees, or agents travel to foreign countries. " +
+                  "The insurance provides broad coverage for bodily injury and property damage including: foreign automobile liability, " +
+                  " medical payments, fire legal liability coverage for real estate property, and employee benefits liability. " +
+                  "Foreign liability does not cover professional liability or contractual liability. Repatriation coverage includes medical evacuation " +
+                  "of state employees to the nearest good medical facility and return of the state employee’s body to the United States in the event of death. " +
+                  "Some foreign countries are excluded by the State’s policy; in those cases, the State is self-insured for this exposure."
+                ],
+                side_image: "/images/about/about-img3.jpg"
+              }
+            ]
           }
         }
       }
