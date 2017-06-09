@@ -1,4 +1,11 @@
+require('dotenv').config()
+
+console.log('API_URL', process.env.API_URL)
+
 module.exports = {
+  env: {
+    API_URL: process.env.API_URL || 'http://localhost:3001'
+  },
   /*
    ** Headers of the page
    */

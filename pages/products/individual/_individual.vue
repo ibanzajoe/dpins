@@ -34,7 +34,7 @@
               <p class="lead">
                 <strong>{{content.heading}}</strong>
               </p>
-              
+
               <p>
                 {{content.pre_subheading}}
               </p>
@@ -52,18 +52,18 @@
                   </template>
                 </ul>
               </template>
-    
+
             </div>
             <!-- Content Ends -->
           </div>
-  
+
           <!-- Nested Row Ends -->
           <!-- Spacer Starts -->
           <div class="spacer-medium"></div>
           <!-- Spacer Ends -->
           <!-- Nested Row Starts -->
         </template>
-        
+
         <template v-else>
           <div class="row text-center-xs">
             <!-- Content Starts -->
@@ -71,7 +71,7 @@
               <p class="lead">
                 <strong>{{content.heading}}</strong>
               </p>
-              
+
               <p>
                 {{content.pre_subheading}}
               </p>
@@ -89,7 +89,7 @@
                   </template>
                 </ul>
               </template>
-              
+
             </div>
             <!-- Content Ends -->
             <!-- Image Media Starts -->
@@ -99,34 +99,34 @@
             </div>
             <!-- Image Media Ends -->
           </div>
-  
+
           <!-- Nested Row Ends -->
           <!-- Spacer Starts -->
           <div class="spacer-medium"></div>
           <!-- Spacer Ends -->
           <!-- Nested Row Starts -->
         </template>
-        
-        
-        
-  
+
+
+
+
         <div class="spacer-medium"></div>
       </template>
-    
+
     </div>
   </div>
 </template>
 
 <script type="text/ecmascript-6" >
-  
+
   module.exports = {
-    
+
     computed: {
       individual () {
         return this.individuals[this.$route.params.individual]
       }
     },
-    
+
     data () {
       return {
         individuals: {
@@ -163,7 +163,7 @@
                   "Comprehensive Coverage will pay you for the loss due to damage by fire, explosion, vandalism, flood, contact with animals, and theft.",
                   "Uninsured and Underinsured Motorist Coverage reimburses you in case you are hit by an uninsured or when you are involved in a hit-and-run. It is also very valuable in case where a pedestrian is hit during an accident."
                 ],
-                side_image: 'https://pixabay.com/get/eb35b90d2ef7013ecd1f4001e2494793e26ae3d110b4144793f1c37d/health-2082630.jpg' //link no longer works
+                side_image: '/img/health-gears.jpg'
               }
             ]
           },
@@ -265,8 +265,7 @@
                 pre_subheading: '',
                 subheading: [
                   "Damage caused by most disasters is covered but there are exceptions. The most significant exceptions are damages caused by floods, earthquakes, and poor maintenance. For earthquakes and floods, you must buy separate policies to insure against them. Maintenance-related problems are homeowners' responsibility."
-                ],
-                side_image: ''
+                ]
               },
               {
                 heading: "What is in a standard homeowners insurance policy?",
@@ -276,10 +275,9 @@
                   "Coverage for your personal belongings",
                   "Liability protection",
                   "Additional living expenses in the event you are temporarily unable to live in your home"
-                ],
-                side_image: ''
+                ]
               },
-              
+
               {
                 heading: "1. The structure of your house",
                 pre_subheading: "",
@@ -319,7 +317,7 @@
                 subheading: [
                   "This pays the additional costs of living away from home if you can't live there due to damages from fire, store, or other insured disaster. It covers hotel bills, restaurant meals, and other living expenses incurred while your home is being rebuilt/repaired. Coverage for additional living expenses differs from company to company. Many policies provide coverage for about 20% of the insurance on your house. You can increase this coverage, however, for an additional premium. Some companies sell a policy that provides an unlimited amount of loss-of-use coverage, but for a limited amount of time.",
                   "If you rent out part of your house, this coverage also reimburses you for the rent that you would have collected from your tenant if your home had not been destroyed."
-                  
+
                 ],
                 side_image: '/images/stock/piggy_bank.jpg'
               }
