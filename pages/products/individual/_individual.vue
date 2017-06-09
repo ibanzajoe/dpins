@@ -323,7 +323,7 @@
               }
             ]
           },
-          travel_insurance: {
+          credit_insurance: {
             heading: "Credit Insurance",
             crumbs: "Credit Insurance",
             content: [
