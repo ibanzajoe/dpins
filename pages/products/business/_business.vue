@@ -126,6 +126,11 @@
 <script type="text/ecmascript-6" >
 
   module.exports = {
+    head () {
+      return {
+        title: this.business.heading
+      }
+    },
 
     computed: {
       business () {
@@ -137,8 +142,8 @@
       return {
         businesses: {
           business_insurance: {
-            heading: "Business Insurances",
-            crumbs: "Business Insurances",
+            heading: "Business Insurance",
+            crumbs: "Business Insurance",
             content: [
               {
                 heading: "Why do you need business insurance?",
@@ -150,8 +155,8 @@
                 side_image: "/images/stock/business.jpg"
               },
               {
-                heading: "What are the different types of business insurances (commonly used)?",
-                pre_subheading: 'There are various liabilities insurance for businesses. General liabilities insurance protects you from most business associated injuries and accidents. Professional liabilities are often used because they are legal requirements that are needed to operate the business. It protects you from claims of your clients who may have suffered losses from your malpractice, professional advice, errors and/or negligence. Product liabilities protects your business from potential problems caused by your product. Customers may use your product improperly that may have potential risks. The amount of coverage vary depending on what products and/or services your business serves. Some business liability insurances include:',
+                heading: "What are different types of commonly used business insurance?",
+                pre_subheading: 'There are various types of liability insurance for businesses. General liability insurance protects you from most business associated injuries and accidents. Professional liability is an often overlooked coverage which protects you from claims from clients who may have suffered losses from your malpractice, professional advice, errors and/or negligence. Product liability protects your business from potential problems caused by your product. The amount of coverage for product liability will vary depending on what products and/or services your business serves. Common business liability insurance exposures are:',
                 subheading: [
                   "Commercial General Liability Insurance (CGPL)",
                   "Business Automobile Policy (BAP)",
@@ -181,7 +186,7 @@
                 heading: "How does it work?",
                 pre_subheading: '',
                 subheading: [
-                  "California's workers' compensation act provides an example of a comprehensive state compensation program. It is applicable to most employers. The statue limits the liability of the employer and fellow employees. California also requires employers to obtain insurance to cover potential workers' compensation claims, and sets up a fund claims that employers have illegally failed to insure against."
+                  "California’s workers’ compensation act provides an example of a comprehensive state compensation program. It is applicable to most employers. The statute limits the liability of the employer and fellow employees. As stipulated in the law, California requires employers to obtain insurance to cover potential workers’ compensation claims. In purchasing insurance, the employer’s insurance carrier agrees to indemnity the employer’s employees on the employer’s behalf for potential loss of wages, medical treatment, or other benefits payable to the employee up to the policy’s liability limit."
                 ],
                 side_image: "/images/stock/piggy_bank.jpg"
               }
@@ -227,17 +232,14 @@
                 heading: "What is Director and Officer (D&O) Liability?",
                 pre_subheading: '',
                 subheading: [
-                  "D&O Liability provides coverage for lawsuits that arise out of wrongful acts, or errors and omission-type claims. Examples of such claims under this policy would be: employment-related claims like negligent hiring practices or wrongful termination, acts beyond the authority of the league or chapter, wrongful suspension of players, coaches, or officials, selection and eligibility disputes, matters involving changes to, interpretation of, or implementation of rules, sexual harassment, and gender, racial, or ethnic discrimination.",
-                  "If the officers of your chapter, league, or association is sued for these type of incidents, coverage for such claim would fall under the D&O policy."
+                  "D& O Liability provides coverage for lawsuits that arise out of wrongful acts, or errors and omission-type claims. Examples of such claims under this policy would be: employment-related claims like negligent hiring practices or wrongful termination, acts beyond the authority of the director or officer involved including wrongful suspension of employees and or officers, selection and eligibility disputes, in addition to matters involving changes to interpretation of or implementation of rules with regards to sexual harassment, gender, race, or ethnicity.",
+                  "If officers of your company are sued for these types of incidents, coverage for such claims would fall under a D&O policy."
                 ],
                 side_image: "/img/directors-and-officers.jpg"
               },
               {
                 heading: "",
-                pre_subheading: "D&O insurance does not cover claims that arise out of bodily injury or proprety damage.  " +
-                "Those types of incidents are specifically covered under the general liability policy.  If a board member " +
-                "or director of a chapter or league official are sued because a player was severely injured, or because " +
-                "a raveling team vandalized someone's property, those claims would be covered under the general liability policy.",
+                pre_subheading: "D&O Insurance does not cover claims that arise out of bodily injury or property damage. Those types of incidents are specifically covered under the general liability policy. For example, if a board member or director of a sports team is sued because a player was severely injured or because the team vandalized someone’s property, those claims would be covered under the general liability policy.",
                 subheading: [
                   "",
                   ""
@@ -246,22 +248,14 @@
               },
               {
                 heading: "Who is covered by D&O insurance?",
-                pre_subheading: '',
-                subheading: [
-                  "The D&O policy protects the individual directors and officers of the chapter or league.  " +
-                  "It also covers the chapter or league entity itself, as well as members of the chapter/league " +
-                  "while acting in an offical capacity, such as coaches, managers, or volunteers"
-                ],
+                pre_subheading: 'A D&O policy protects the individual directors and officers of a company. It also covers the company itself, as well as managing members while acting in an official capacity.',
+                subheading: [],
                 side_image: "/img/corporate-owner.jpeg"
               },
               {
                 heading: "Who should purchase the coverage?",
-                pre_subheading: '',
-                subheading: [
-                  "US Lacrosse highly recommends that all chapters purchase D&O liability insurance to protect their " +
-                  "board and cover their operations.  The coverage is also available to lacrosse officials' associations " +
-                  "and to leagues who are comprised of US Lacrosse members."
-                ]
+                pre_subheading: 'We recommend that all companies consider purchasing D&O liability to protect their board members and operations. Coverage is available for all types of companies, associations, and sports leagues and can be specifically tailored to accommodate all key personnel.',
+                subheading: []
               }
             ]
           },
@@ -271,18 +265,13 @@
             content: [
               {
                 heading: "What is Builder's Risk",
-                pre_subheading: '',
-                subheading: [
-                  "Builder's Risk Coverage protects your materials and supplies during the construction " +
-                  "process.  It also covers your property in transit as well as at a temporary location where it will " +
-                  "be stored"
-                ],
+                pre_subheading: 'Builder’s Risk coverage protects your materials and supplies during the construction process. It also covers your property in transit as well as at a temporary location where it will be stored.',
+                subheading: [],
                 side_image: "/img/construction.jpeg"
               },
               {
                 heading: "How does it work?",
-                pre_subheading: "Not only does builders risk coverage protect against direct loss to the building under construction, " +
-                "it helps to insure a contractor profit.  The Hartford innovative builders risk coverage includes: ",
+                pre_subheading: "Not only does builder’s risk coverage protect against direct loss to a building under construction, it also helps insure a contractor’s profit. Standard builder’s risk coverage includes:",
                 subheading: [
                   " financial loss resulting from new zoning regulations or laws",
                   " most equipments during testing",
@@ -300,15 +289,8 @@
             content: [
               {
                 heading: "How it works?",
-                pre_subheading: '',
-                subheading: [
-                  "Employment Practice Liability Insurance (EPLI) insures against " +
-                  "liability arising from employment practices.  EPLI policies cover only " +
-                  "claims that the employer knew about or should have known about and that the " +
-                  "employer reported to the carrier during the coverage period.",
-                  "EPLI policies vary from carrier to carrier.  most EPLI policies provide 'duty to defend' coverage, " +
-                  "requiring the carrier to defend against claims brought under the policy."
-                ],
+                pre_subheading: 'Most EPLI policies also contain a provision that is sometimes referred to as a ‘hammer’ clause. Hammer clauses give the carrier the right to recommend settlement. If an employer does not follow the recommendation, the carrier’s liability is limited to the amount recommended. Some hammer clauses allow the carrier to force the case into arbitration, mediation, or other alternative dispute resolution mechanisms.',
+                subheading: [],
                 side_image: "/img/employee.jpg"
               },
               {
@@ -330,15 +312,8 @@
               },
               {
                 heading: "1. Covered Insurance",
-                pre_subheading: '',
-                subheading: [
-                  "All EPLI policies cover claims against the company (and sometimes its subsidiaries) and " +
-                  "its directors, officers, and employees.  However, some policies exclude coverage " +
-                  "cover only claims against full-time employees.  In addition, many policies exclude " +
-                  "independent contractors from coverage.  Employers should try to obtain the broadest coverage " +
-                  "possible so that part-time, temporary, leased and seasonal employees and independent " +
-                  "contractors also are covered. "
-                ]
+                pre_subheading: 'All EPLI policies cover claims against the company (and sometimes its subsidiaries) and its directors, officers, and employees. However, some policies can include exclusions such as only covering claims against full-time employees. In addition, many policies exclude independent contractors from coverage. Employers should try to obtain the broadest coverage possible so that part-time, temporary, leased, and seasonal employees and independent contractors are also covered within their policy.',
+                subheading: []
               },
               {
                 heading: "2. Claims Covered",
@@ -357,17 +332,8 @@
               },
               {
                 heading: "3. Person Bringing Covered Claim",
-                pre_subheading: '',
-                subheading: [
-                  "All EPLI policies cover claims brought by current full-time employees. " +
-                  "Some policies also current part-time, temporary and seasonal employees. " +
-                  "Some go even further and offer coverage for applicants for employment " +
-                  "and former employees (full-time, part-time, temporary and seasonal). " +
-                  "Still others afford greater coverage and cover claims brought by the " +
-                  "EEOC 'on behalf of' employees. Employers should examine their " +
-                  "workforces and determine which type of policy will best meet " +
-                  "their needs."
-                ]
+                pre_subheading: 'All EPLI policies cover claims brought by current full-time employees. Some policies also cover claims by current part-time, temporary, or seasonal employees. Some even go further and offer coverage for applicants for employment and former employees (full-time, part-time, temporary, or seasonal). Still others afford greater coverage and cover claims brought on by the EEOC ‘on behalf of’ employees. Employers should examine their workforces to determine which type of policy will best meet their needs.',
+                subheading: []
               },
               {
                 heading: "4. Wrongful Acts Covered",
@@ -443,7 +409,7 @@
                   "The cargo",
                   "The freight revenue to be received by the ship owner",
                   "Legal liability for negligence of the shipper or the carrier",
-                  
+
                 ],
                 side_image: "/images/about/about-img3.jpg"
               },
@@ -478,8 +444,8 @@
                 "other means of transportation and communication.  Insurance that covers expensive personal items such as fine art and jewelry " +
                 "are included in this category.",
                 subheading: [
-                  
-        
+
+
                 ],
                 side_image: "/images/about/about-img3.jpg"
               },

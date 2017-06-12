@@ -120,7 +120,11 @@
 <script type="text/ecmascript-6" >
 
   module.exports = {
-
+    head () {
+      return {
+        title: this.individual.heading
+      }
+    },
     computed: {
       individual () {
         return this.individuals[this.$route.params.individual]
@@ -136,20 +140,14 @@
             content: [
               {
                 heading: "Why do we need car insurance?",
-                pre_subheading: '',
-                subheading: ["In most states, it is illegal to drive without insurance. " +
-                "If you own a car and wish to drive it, you most likely need an automobile " +
-                "insurance. Having auto insurance is more than just protecting your vehicle, " +
-                "it is having a peace of mind from driver's worst nightmares like a bad accident, " +
-                "car-jacking, as well as possible bodily injuries and fatalities."],
+                pre_subheading: 'In most states, it is illegal to drive without insurance. If you own a car and wish to drive it, you will most likely need automobile insurance. Having auto insurance is more than just protecting your vehicle, it is having about having peace of mind from your worst nightmares like a bad accident, car-jacking, as well as possible bodily injuries and fatalities.',
+                subheading: [],
                 side_image: '/images/stock/car-crash.jpeg'
               },
               {
-                heading: "What is an auto insurance",
-                pre_subheading: '',
-                subheading: ["An auto insurance is a contract between you and your insurance company in which " +
-                "an agreement is established where you, the client, pays the insurance premium, and in exchange " +
-                "the insurance company agrees to reimburse you for any losses covered by the insurance policy."],
+                heading: "What is auto insurance?",
+                pre_subheading: 'Auto insurance is a contract between you and your insurance company in which an agreement is established where you, the client, pays the insurance premium, and in exchange the insurance company agrees to reimburse you for any losses covered by the insurance policy.',
+                subheading: [],
                 side_image: '/images/stock/piggy_bank.jpg'
               },
               {
@@ -252,7 +250,7 @@
             crumbs: "Homeowner Policy",
             content: [
               {
-                heading: "What is homeowners insurance policy?",
+                heading: "What is homeowners insurance?",
                 pre_subheading: '',
                 subheading: [
                   "Homeowners insurance provides financial protection against disasters. A standard policy not only insures the home and the building, but your other valuable possessions as well.",
@@ -261,11 +259,9 @@
                 side_image: '/images/stock/smallhouse.png'
               },
               {
-                heading: "What is covered by a homeowners insurance?",
-                pre_subheading: '',
-                subheading: [
-                  "Damage caused by most disasters is covered but there are exceptions. The most significant exceptions are damages caused by floods, earthquakes, and poor maintenance. For earthquakes and floods, you must buy separate policies to insure against them. Maintenance-related problems are homeowners' responsibility."
-                ]
+                heading: "What is covered by homeowners insurance?",
+                pre_subheading: "Damage caused by most disasters is covered but there are exceptions. The most significant exceptions are damages caused by floods, earthquakes, and poor maintenance. For earthquakes and floods, you must buy separate policies to insure against them. Maintenance-related problems are a homeowners' responsibility.",
+                subheading: []
               },
               {
                 heading: "What is in a standard homeowners insurance policy?",
@@ -288,17 +284,11 @@
                 side_image: '/images/stock/simple-home.jpeg'
               },
               {
-                heading: "2. Your personal belonging",
+                heading: "2. Your personal belongings",
                 pre_subheading: "",
                 subheading: [
-                  "Your furniture, clothes, sports equipment, and other personal items are covered if they are stolen or destroyed by fire, hurricane, or other insured disaster. most companies provide coverage for 50% to 70% of the amount of insurance you have on the structure of your home. So if you have a $100,000 worth of insurance on the structure of your home, you would have between $50,000 to $70,000 worth of coverage for your belongings. The best way to determine if this is enough coverage is to conduct a home inventory.",
-                  "Expensive items like jewelry, furs, and silverware are covered, but usually there " +
-                  "are maximum limits if they are stolen. Generally, you are covered for between " +
-                  "$1,000 to $2,000 for all of your jewelry and furs. To insure these items to " +
-                  "their full value, purchase a special personal property endorsement or floater " +
-                  "and insure the item for it's appraised value. Coverage includes 'accidental " +
-                  "disappearance,'  meaning coverage if you simply lose that item. There are no " +
-                  "deductible."
+                  "Your policy also provides no-fault medical coverage. In the event a friend or neighbor is injured in your home, he or she can simply submit medical bills to your insurance company. This way, expenses are paid without a liability claim being filed against you. You can generally get $1,000 to $5,000 worth of this coverage. It does not, however, pay the medical bills for your family or your pet.",
+                  "This pays the additional costs of living away from home if you can't live there due to damages from fire or other insured disaster. It covers hotel bills, restaurant meals, and other living expenses incurred while your home is being rebuilt/repaired. Coverage for additional living expenses differs from company to company. Many policies provide coverage for about 20% of the insurance on your house. You can increase this coverage, however, for an additional premium. Some companies sell a policy that provides an unlimited amount of loss-of-use coverage, but for a limited amount of time."
                 ],
                 side_image: '/images/stock/fancy-stuff.jpeg'
               },

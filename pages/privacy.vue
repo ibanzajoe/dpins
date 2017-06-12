@@ -61,7 +61,7 @@
         </div>-->
         <!-- Image Media Ends -->
       </div>
-      
+
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <!--<div class="col-sm-5 col-xs-12">
@@ -80,7 +80,7 @@
         </div>
         <!-- Content Ends -->
       </div>
-  
+
       <br>
       <div class="row text-center-xs">
         <!-- Content Starts -->
@@ -94,7 +94,7 @@
           <p>
             We used demographic and profile date to tailor your experience at our site, show you content that we think you might be interested in, and displaying content according to your preferences.
           </p>
-          
+
           <p>
             We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you.
           </p>
@@ -107,7 +107,7 @@
         </div>-->
         <!-- Image Media Ends -->
       </div>
-  
+
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <!--<div class="col-sm-5 col-xs-12">
@@ -126,7 +126,7 @@
         </div>
         <!-- Content Ends -->
       </div>
-  
+
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <!--<div class="col-sm-5 col-xs-12">
@@ -150,7 +150,7 @@
       <div class="spacer"></div>
       <!-- Spacer Ends -->
       <!-- What We Offer Starts -->
-      
+
       <!-- What We Offer Ends -->
       <!-- Spacer Starts -->
       <div class="spacer-medium"></div>
@@ -158,3 +158,13 @@
     </div>
   </div>
 </template>
+
+<script>
+  export default {
+    head () {
+      return {
+        title: 'Privacy Policy'
+      }
+    }
+  }
+</script>

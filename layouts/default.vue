@@ -9,7 +9,7 @@
           <!-- Logo Starts -->
           <div class="col-lg-3 col-sm-4 col-xs-12">
             <nuxt-link to="/">
-              <img src="/images/logo/dp logo.png" alt="Fin Adviser" class="img-responsive img-center-xs logo">
+              <img src="/images/logo/dp logo.png" alt="DP Insurance" class="img-responsive img-center-xs logo">
             </nuxt-link>
           </div>
           <!-- Logo Ends -->
@@ -17,8 +17,8 @@
           <div class="col-sm-4 col-xs-12 hidden-md hidden-sm hidden-xs">
             <div class="clearfix">
               <div class="pull-right-lg">
-                <h6 class="text-spl-color text-medium">1130 S. San Gabriel Blvd #202,</h6>
-                <p class="text-light"><em>San Gabriel, CA 91776-3155</em></p>
+                <h6 class="text-spl-color text-medium">1130 S San Gabriel Blvd</h6>
+                <p class="text-light"><em>San Gabriel, CA 91776</em></p>
               </div>
               <i class="fa fa-map-marker pull-right-lg pull-left-md pull-left-sm circle"></i>
             </div>
@@ -28,7 +28,7 @@
           <div class="col-lg-2 col-sm-3 col-xs-12 hidden-xs">
             <div class="clearfix text-right-md text-right-sm">
               <i class="fa fa-phone pull-left-lg pull-right-md pull-right-sm circle"></i>
-              <h6 class="text-spl-color text-medium">Call Us On</h6>
+              <h6 class="text-spl-color text-medium">Call Us</h6>
               <p class="text-light"><em>1-626-292-6608</em></p>
             </div>
           </div>
@@ -37,7 +37,7 @@
           <div class="col-lg-3 col-sm-5 col-xs-12 hidden-xs">
             <div class="clearfix text-right-md text-right-sm">
               <i class="fa fa-envelope-o pull-left-lg pull-right-md pull-right-sm circle"></i>
-              <h6 class="text-spl-color text-medium">Mail Us @</h6>
+              <h6 class="text-spl-color text-medium">Mail Us</h6>
               <p class="text-light"><em><a href="mailto:procenter@dp-formosa.com">procenter@dp-formosa.com</a></em></p>
             </div>
           </div>
@@ -137,7 +137,7 @@
           <!-- Left Col Starts -->
           <div class="col-md-6 col-xs-12">
             <!-- Contact Info Fin Advisor Starts -->
-            <h4 class="section-heading-1 text-center-xs">Contact Info <span>DP Insurance</span></h4>
+            <h4 class="section-heading-1 text-center-xs">Contact Info</h4>
             <p>
               <strong>Get help navigating the complex world of insurance</strong>, choose DP Insurance Agency.  We make insurance quick and easy
               so you can have the peace of mind that you are covered.
@@ -168,7 +168,7 @@
                 <div class="foot-col-1">
                   <h5><i class="fa fa-map-marker"></i> Address</h5>
                   <ul class="list-unstyled list-address">
-                    <li><strong>1130 S. San Gabriel Blvd #202</strong></li>
+                    <li><strong>1130 S San Gabriel Blvd</strong></li>
                     <li>San Gabriel, CA 91776-3155</li>
                   </ul>
                 </div>
@@ -248,7 +248,7 @@
           <!--<li><a href="#"><i class="fa fa-instagram"></i></a></li>
           <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>-->
         </ul>
-        <em class="text-light">DP Insurance &copy; 2017. All Rights Reserved. Designed By <a href="http://www.penguin.ws">Penguin Website Inc.</a></em>
+        <em class="text-light">DP Insurance Agency &copy; 2017. All Rights Reserved.</em>
       </div>
       <!-- Nested Container Ends -->
     </footer>

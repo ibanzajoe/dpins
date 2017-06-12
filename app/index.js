@@ -10,6 +10,8 @@ const bodyParser = require('body-parser'),
   cors = require('cors')
 
 
+console.log('emailing', process.env.EMAIL_TO)
+
 app.listen(process.env.LISTEN_PORT || 3001)
 
 app.use(cors())
@@ -28,6 +30,7 @@ Message: ${schedule.message} \n
 
   helper.mail(process.env.EMAIL_TO, process.env.EMAIL_FROM, process.env.EMAIL_SUBJECT, email_text)
     .then( response => {
+      console.log('email response', response)
       res.send( email_text )
     })
     .catch( err => {

@@ -85,7 +85,7 @@
         </div>-->
         <!-- Image Media Ends -->
       </div>
-      
+
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <!--<div class="col-sm-5 col-xs-12">
@@ -109,7 +109,7 @@
         </div>
         <!-- Content Ends -->
       </div>
-  
+
       <br>
       <div class="row text-center-xs">
         <!-- Content Starts -->
@@ -123,19 +123,19 @@
           <p>
             You are responsible for any content that you post or transmit on or through the Service. You will not use the Service to distribute, link to, or solicit content that:
           </p>
-          
+
           <p>
             Is unlawful, harmful to minors, threatening, harassing, abusive, defamatory, vulgar, gratuitously violent, obscene, pornographic, libelous, invasive of another's privacy, or racially, ethnically or otherwise offensive;
           </p>
-          
+
           <p>
             Constitutes unsolicited or unauthorized advertising, junk or bulk e-mail, chain letters, or any other unsolicited commercial communication, except as DP Insurance Agency specifically authorized;
           </p>
-          
+
           <p>
             Contains software viruses or any other computer code, files, or programs that are designed or intended to disrupt, damage, or limit the functioning of any software, hardware, or telecommunications equipment.
           </p>
-          
+
           <p>
             You will comply with all applicable laws and regulations regarding online conduct and content. You will not use the Service to collect, store, or use information about others for the purpose of sending unsolicited or unauthorized communications. Except as we specifically authorize (via license or otherwise), you will not reproduce, distribute, or commercially exploit any part of the Service
           </p>
@@ -153,7 +153,7 @@
       <div class="spacer"></div>
       <!-- Spacer Ends -->
       <!-- What We Offer Starts -->
-      
+
       <!-- What We Offer Ends -->
       <!-- Spacer Starts -->
       <div class="spacer-medium"></div>
@@ -161,3 +161,14 @@
     </div>
   </div>
 </template>
+
+
+<script>
+  export default {
+    head () {
+      return {
+        title: 'Terms and Conditions'
+      }
+    }
+  }
+</script>

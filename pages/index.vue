@@ -9,7 +9,7 @@
           <div class="carousel-caption text-center text-lite-color">
             <h2 class="text-medium">Independent Insurance Agency</h2>
             <h5 class="text-light">Always Independent</h5>
-            <h5 class="text-light">Work for you, Not for Insurance Companies </h5>
+            <h5 class="text-light">Working for You, not for Insurance Companies</h5>
             <nuxt-link to="request-quote" class="btn btn-secondary animation text-medium">Free Quote</nuxt-link>
           </div>
         </div>
@@ -57,7 +57,7 @@
               <i class="fa fa-group circle"></i>
               <h5 class="text-bold">Homeowner Policy</h5>
               <p class="p_context">
-                Homeowners' insurance provides coverage for unforeseeable disasters.  A standard policy insures the house as well as your valuables.
+                Homeowners' insurance provides coverage for unforeseeable disasters. A standard policy insures your house as well as your valuables.
               </p>
             </div>
           </div>
@@ -68,8 +68,7 @@
               <i class="fa fa-money circle"></i>
               <h5 class="text-bold">Auto Insurance</h5>
               <p class="p_context">
-                Most states in the US requires that you must be insured to operate a vehicle.  For most drivers, an auto insurance is
-                a must.  Drive with confidence.  Get insured!
+                Most states in the US require you to be insured in order to operate a vehicle. For most drivers, auto insurance is a most. Drive with confidence. Get insured!
               </p>
             </div>
           </div>
@@ -80,7 +79,7 @@
               <i class="fa fa-bar-chart-o circle"></i>
               <h5 class="text-bold">Life Insurance</h5>
               <p class="p_context">
-                Life insurance is about protecting your loved ones and ensuring they will be taken care of.
+                Life insurance is about protecting your loved ones and ensuring that they will be taken care of.
               </p>
             </div>
           </div>
@@ -91,7 +90,7 @@
               <i class="fa fa-group circle"></i>
               <h5 class="text-bold">Health Insurance</h5>
               <p class="p_context">
-                Health care is expensive and the prices are expected to rise.  Don't get caught off guard by a huge medical bill.
+                Health care is expensive and prices are expected to rise. Don’t get caught off guard by a huge medical bill.
               </p>
             </div>
           </div>
@@ -127,7 +126,7 @@
             <!-- Heading Ends -->
             <!-- Content Starts -->
             <p>
-              With over 30 years of experience, DP Insurance takes pride in providing our customers the best insurance policies that are right for them.
+              With over 30 years of experience, DP Insurance Agency takes pride in providing our customers the best insurance policies that are right for them.
             </p>
             <p>What you can expect from our insurance agency is a dedicated service in getting you the insurance plan you need that is right for you.</p>
             <!-- Content Ends -->
@@ -306,7 +305,7 @@ export default {
       background-color: rgba(0,0,0,0.3);
     }
   }
-  
+
   .p_context {
     min-height: 100px;
   }
