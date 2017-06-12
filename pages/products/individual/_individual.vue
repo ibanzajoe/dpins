@@ -328,7 +328,7 @@
                   "and depending on the usage of the loan or line, could almost double the cost of it (on the opposite " +
                   "end of the spectrum, clever usage could avoid having to pay almost any premium at all)."
                 ],
-                side_image: '/images/about/about-img3.jpg'
+                side_image: '/img/creditinsurance.jpeg'
               },
               {
                 heading: "",
@@ -347,7 +347,7 @@
                   "with the loan forever and not refinance. Critics contend most people do not realize this and lose " +
                   "money by refinancing once again, thereby losing the benefits of the credit insurance."
                 ],
-                side_image: '/images/about/about-img3.jpg'
+                side_image: '/img/nickleanddime.jpeg'
               },
               {
                 heading: "Do I really need a credit insurance?",
@@ -368,7 +368,7 @@
                   "If you have a co-borrower, what coverage does he or she have and at what cost?",
                   "Can you cancel the insurance? If so, what kind of refund is available?"
                 ],
-                side_image: '/images/about/about-img3.jpg'
+                side_image: '/img/doineed.jpeg'
               }
             ]
           },
@@ -388,7 +388,7 @@
                   "Rates depend on location and the probability of an earthquake. Rates may be cheaper for " +
                   "homes made of wood, which withstand earthquakes better than homes made of brick."
                 ],
-                side_image: '/images/about/about-img3.jpg'
+                side_image: '/img/earthquake - 600072286.jpg'
               },
               {
                 heading: "Should you buy earthquake insurance?",
@@ -401,7 +401,7 @@
                   "when caused or compounded by an earthquake. However, loss caused by landslide, settlement, mudflow " +
                   "and the rising, sinking and contracting of earth may be covered if the damage resulted from an earthquake."
                 ],
-                side_image: '/images/about/about-img3.jpg'
+                side_image: '/img/housequake - 472904316.jpg'
               },
               {
                 heading: "Earthquake insurance in California",
@@ -424,7 +424,7 @@
                   "nor will it cover claims from non-CEA insurers if they were to become insolvent due to " +
                   "earthquake losses."
                 ],
-                side_image: '/images/about/about-img3.jpg'
+                side_image: '/img/ca-hollywood.jpeg'
               }
             ]
           }
