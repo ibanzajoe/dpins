@@ -70,7 +70,7 @@
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
           <p class="hidden visible-xs"><br></p>
-          <img src="/images/stock/businesspeople.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
+          <img src="/images/stock/team.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
         </div>
         <!-- Image Media Ends -->
       </div>

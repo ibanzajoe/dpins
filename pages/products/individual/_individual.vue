@@ -388,7 +388,7 @@
                   "Rates depend on location and the probability of an earthquake. Rates may be cheaper for " +
                   "homes made of wood, which withstand earthquakes better than homes made of brick."
                 ],
-                side_image: '/img/earthquake - 600072286.jpg'
+                side_image: '/images/stock/earthquake.jpg'
               },
               {
                 heading: "Should you buy earthquake insurance?",
@@ -401,7 +401,7 @@
                   "when caused or compounded by an earthquake. However, loss caused by landslide, settlement, mudflow " +
                   "and the rising, sinking and contracting of earth may be covered if the damage resulted from an earthquake."
                 ],
-                side_image: '/img/housequake - 472904316.jpg'
+                side_image: '/images/stock/earthquake-dry.jpg'
               },
               {
                 heading: "Earthquake insurance in California",

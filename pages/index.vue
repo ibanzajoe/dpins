@@ -292,14 +292,14 @@ export default {
     background-color: rgba(0,0,0,.10);
   }
   .hero-image {
-    background-image: url('/images/stock/interracial.jpg');
+    background-image: url('/images/stock/small-business.jpg');
     background-size: cover;
     background-position: center 40%;
     height: 650px;
   }
 
   .section-services {
-    background-image: url('/images/stock/intense_look.jpg');
+    background-image: url('/images/stock/small-business-service.jpg');
 
     .our-services {
       background-color: rgba(0,0,0,0.3);

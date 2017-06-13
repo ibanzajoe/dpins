@@ -22,7 +22,7 @@
       <div class="row text-center-xs">
         <!-- Image Media Starts -->
         <div class="col-sm-5 col-xs-12">
-          <img src="https://image.shutterstock.com/z/stock-photo-human-resources-interview-recruitment-job-concept-384111052.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
+          <img src="/images/stock/interview.jpg" alt="About Image" class="img-responsive img-style-1 img-center-xs">
           <p class="hidden visible-xs"><br></p>
         </div>
         <!-- Image Media Ends -->

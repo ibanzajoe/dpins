@@ -152,7 +152,7 @@
                   "When running a business, you HAVE to consider your liabilities. Even if you don't have a big, prosperous, business, liability insurance is essential and can be a crucial part of protecting your business and financial health.",
                   "Liability insurance covers employees and customer injuries that may occur at your place of business. Even in cases where someone you are not associated with causes someone else injury at your place of business, your business may still be held liable for damages. Liability insurance can cover you from such claims of personal injury as well as any other claims involving any type of abuse and sexual harassment."
                 ],
-                side_image: "/images/stock/business.jpg"
+                side_image: "/images/stock/risk.jpg"
               },
               {
                 heading: "What are different types of commonly used business insurance?",
@@ -212,7 +212,7 @@
                   "Error and Omissions Insurance is generally recommended to be at the foundation of every company's insurance portfolio. It is usually wise to purchase the coverage prior to product launch or when you start servicing customers.",
                   "Coverage includes legal defense costs, no matter how baseless the allegations. With Error and Omission insurance, you will be reimbursed for any resulting judgement against you including the court cost, up to the coverage limits of your policy."
                 ],
-                side_image: "https://image.shutterstock.com/z/stock-photo-worried-businesswoman-receiving-a-notification-from-a-colleague-in-her-workplace-at-office-393282928.jpg"
+                side_image: "/images/stock/contract-mistake.jpg"
               },
               {
                 heading: "Why do I need Errors & Omissions Insurance?",
