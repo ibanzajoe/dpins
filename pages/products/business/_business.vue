@@ -250,7 +250,7 @@
                 heading: "Who is covered by D&O insurance?",
                 pre_subheading: 'A D&O policy protects the individual directors and officers of a company. It also covers the company itself, as well as managing members while acting in an official capacity.',
                 subheading: [],
-                side_image: "/img/corporate-owner.jpeg"
+                side_image: "/img/corporate-owner.jpg"
               },
               {
                 heading: "Who should purchase the coverage?",
@@ -267,7 +267,7 @@
                 heading: "What is Builder's Risk",
                 pre_subheading: 'Builder’s Risk coverage protects your materials and supplies during the construction process. It also covers your property in transit as well as at a temporary location where it will be stored.',
                 subheading: [],
-                side_image: "/img/construction.jpeg"
+                side_image: "/img/construction.jpg"
               },
               {
                 heading: "How does it work?",
@@ -418,7 +418,7 @@
                 pre_subheading: 'This coverage is designed to protect shipments of goods in foreign trade, particularly exported or imported by an ocean vessel or as air cargo',
                 subheading: [
                 ],
-                side_image: "/img/aircargo.jpeg"
+                side_image: "/img/aircargo.jpg"
               },
               {
                 heading: "How does it work?",
@@ -429,7 +429,7 @@
                 'loading and unloading, and mechanical breakdown.',
                 subheading: [
                 ],
-                side_image: "/img/warehouse.jpeg"
+                side_image: "/img/warehouse.jpg"
               }
             ]
           },
@@ -447,7 +447,7 @@
 
 
                 ],
-                side_image: "/img/motorbikecargo.jpeg"
+                side_image: "/img/motorbikecargo.jpg"
               },
               {
                 heading: "What are the coverage?",
@@ -493,7 +493,7 @@
                   "Valuable Papers",
                   "Warehouse Legal"
                 ],
-                side_image: "/img/shippedstuff.jpeg"
+                side_image: "/img/shippedstuff.jpg"
               }
             ]
           },
@@ -508,7 +508,7 @@
                   "It is designed to increase the limits of liability, thereby providing catastrophe coverage.  Excess liability coverage does not respond to a loss until the amount " +
                   "of the loss exceeds (or exhausts) any existing primary policy limits."
                 ],
-                side_image: "/img/excessliability.jpeg"
+                side_image: "/img/excessliability.jpg"
               },
               {
                 heading: "Example:",
@@ -524,7 +524,7 @@
                   "Legal defense costs for a covered loss.  Lawyer fees and associated cour costs are covered",
                   "World wide coverage - no matter where you go, with the only exception being situations involving foreign ownership of dwellings or cars."
                 ],
-                side_image: "/img/nickleanddime.jpeg"
+                side_image: "/img/nickleanddime.jpg"
               }
             ]
           },
@@ -542,7 +542,7 @@
                   "Coverage provides for reimbursement of third party damages sustained including defense expenses associated with claims filed in " +
                   "other countries.  Coverage is provided using our proprietary form or ISO worldwide coverage forms."
                 ],
-                side_image: "/img/ladyliberty.jpeg"
+                side_image: "/img/ladyliberty.jpg"
               },
               {
                 heading: "What will be covered in the foreign liability?",
@@ -555,7 +555,7 @@
                   "of state employees to the nearest good medical facility and return of the state employee’s body to the United States in the event of death. " +
                   "Some foreign countries are excluded by the State’s policy; in those cases, the State is self-insured for this exposure."
                 ],
-                side_image: "/img/foreignworker.jpeg"
+                side_image: "/img/foreignworker.jpg"
               }
             ]
           }

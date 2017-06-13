@@ -142,7 +142,7 @@
                 heading: "Why do we need car insurance?",
                 pre_subheading: 'In most states, it is illegal to drive without insurance. If you own a car and wish to drive it, you will most likely need automobile insurance. Having auto insurance is more than just protecting your vehicle, it is having about having peace of mind from your worst nightmares like a bad accident, car-jacking, as well as possible bodily injuries and fatalities.',
                 subheading: [],
-                side_image: '/images/stock/car-crash.jpeg'
+                side_image: '/images/stock/car-crash.jpg'
               },
               {
                 heading: "What is auto insurance?",
@@ -176,7 +176,7 @@
                   "Health insurance is an insurance plan where the insurer pays for the medical costs of the person being covered. When the person covered under the health insurance plan becomes sick, the insurance company (insurer) pays the medical costs on behalf of the individual who is covered.",
                   "The insurer may be a private organization or a government entity. Market based health care systems, like the one in the United States, rely primarily on private health insurance companies."
                 ],
-                side_image: '/images/stock/medical.jpeg'
+                side_image: '/images/stock/medical.jpg'
               },
               {
                 heading: "Why do we need health insurance?",
@@ -186,7 +186,7 @@
                   "In most cases, many individuals receive their health insurance from their employers. The employer helps pay for that insurance and the plans have contracts with health care providers and medical facilities to provide care at reduced costs.",
                   "You can also purchase health insurances on your own. For most people, it will cost more than employer-based insurance plans, but individuals who meet certain requirements can qualify for government funded health insurance such as Medicare and Medicaid."
                 ],
-                side_image: '/images/stock/money_pills.jpeg'
+                side_image: '/images/stock/money_pills.jpg'
               },
               {
                 heading: "What factors are affecting insurance price?",
@@ -202,7 +202,7 @@
                   "insufficient exercise, unhealthy food choices, living in impoverished or rural areas " +
                   "where access is more difficult, excessive alcohol use, smoking, drug use, and obesity"
                 ],
-                side_image: '/images/stock/watermelon.jpeg'
+                side_image: '/images/stock/watermelon.jpg'
               }
             ]
           },
@@ -241,7 +241,7 @@
                   "Convertible during the earlier of the level term period or age 75",
                   "Disability income rider is available on policies with face amount above $250,000 issued standard or better. The rider has a 90-day elimination period and a 2-year benefit period"
                 ],
-                side_image: '/images/stock/gears.jpeg'
+                side_image: '/images/stock/gears.jpg'
               }
             ]
           },
@@ -281,7 +281,7 @@
                   "This part of your policy pays to repair or rebuild your home if it is damaged or destroyed by fire, hurricane, hail, lightning, or other disaster listed in your policy. It will not pay for damages caused by a flood, earthquake, or routine wear and tear. When purchasing coverage for the structure of your home, it is important to buy enough to rebuild your home.",
                   "Most standard policies also cover structures that are detached from your home such as a garage, tool shed, or gazebo. Generally, these structures are covered for about 10% of the amount of insurance you have on the structure of your home. If you need more coverage, talk to your insurance agent about purchasing more insurance."
                 ],
-                side_image: '/images/stock/simple-home.jpeg'
+                side_image: '/images/stock/simple-home.jpg'
               },
               {
                 heading: "2. Your personal belongings",
@@ -290,7 +290,7 @@
                   "Your policy also provides no-fault medical coverage. In the event a friend or neighbor is injured in your home, he or she can simply submit medical bills to your insurance company. This way, expenses are paid without a liability claim being filed against you. You can generally get $1,000 to $5,000 worth of this coverage. It does not, however, pay the medical bills for your family or your pet.",
                   "This pays the additional costs of living away from home if you can't live there due to damages from fire or other insured disaster. It covers hotel bills, restaurant meals, and other living expenses incurred while your home is being rebuilt/repaired. Coverage for additional living expenses differs from company to company. Many policies provide coverage for about 20% of the insurance on your house. You can increase this coverage, however, for an additional premium. Some companies sell a policy that provides an unlimited amount of loss-of-use coverage, but for a limited amount of time."
                 ],
-                side_image: '/images/stock/fancy-stuff.jpeg'
+                side_image: '/images/stock/fancy-stuff.jpg'
               },
               {
                 heading: "3. Liability protection",
@@ -328,7 +328,7 @@
                   "and depending on the usage of the loan or line, could almost double the cost of it (on the opposite " +
                   "end of the spectrum, clever usage could avoid having to pay almost any premium at all)."
                 ],
-                side_image: '/img/creditinsurance.jpeg'
+                side_image: '/img/creditinsurance.jpg'
               },
               {
                 heading: "",
@@ -347,7 +347,7 @@
                   "with the loan forever and not refinance. Critics contend most people do not realize this and lose " +
                   "money by refinancing once again, thereby losing the benefits of the credit insurance."
                 ],
-                side_image: '/img/nickleanddime.jpeg'
+                side_image: '/img/nickleanddime.jpg'
               },
               {
                 heading: "Do I really need a credit insurance?",
@@ -368,7 +368,7 @@
                   "If you have a co-borrower, what coverage does he or she have and at what cost?",
                   "Can you cancel the insurance? If so, what kind of refund is available?"
                 ],
-                side_image: '/img/doineed.jpeg'
+                side_image: '/img/doineed.jpg'
               }
             ]
           },
@@ -424,7 +424,7 @@
                   "nor will it cover claims from non-CEA insurers if they were to become insolvent due to " +
                   "earthquake losses."
                 ],
-                side_image: '/img/ca-hollywood.jpeg'
+                side_image: '/img/ca-hollywood.jpg'
               }
             ]
           }
