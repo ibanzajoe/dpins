@@ -292,7 +292,18 @@ export default {
     background-color: rgba(0,0,0,.10);
   }
   .hero-image {
-    background-image: url('/images/stock/small-business.jpg');
+    
+    /*background:
+      !* top, transparent red, faked with gradient *!
+      linear-gradient(
+          rgba(255, 0, 0, 0.45),
+          rgba(255, 0, 0, 0.45)
+      ),
+        !* bottom, image *!
+      url(image.jpg);
+    background-image: url('/images/stock/small-business.jpg');*/
+    background: linear-gradient(rgba(51, 122, 183, 0.4), rgba(51, 122, 183, 0.4)), url('/images/stock/small-business.jpg');
+    
     background-size: cover;
     background-position: center 40%;
     height: 650px;
