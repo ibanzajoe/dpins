@@ -22,7 +22,7 @@
       <!-- Nested Row Starts -->
       <template v-for="(content, index) in business.content">
         <template v-if="index % 2 == 0">
-          <div class="row text-center-xs">
+          <div class="row is-flex is-ac text-center-xs">
             <!-- Image Media Starts -->
             <div v-if="content.side_image" class="col-sm-5 col-xs-12">
               <img :src="content.side_image" alt="About Image" class="img-responsive img-style-1 img-center-xs">
@@ -565,3 +565,14 @@
   }
 </script>
 
+<style lang="scss" rel="stylesheet/scss" scoped>
+  .row {
+    &.is-flex {
+      display: flex;
+      &.is-ac {
+        align-items: center;
+      }
+    }
+  }
+  
+</style>

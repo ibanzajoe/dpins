@@ -313,7 +313,9 @@ export default {
     background-image: url('/images/stock/small-business-service.jpg');
 
     .our-services {
-      background-color: rgba(0,0,0,0.3);
+      background-color: rgba(0,0,0,0.7);
+      border-radius: 5px;
+      padding: 15px;
     }
   }
 
